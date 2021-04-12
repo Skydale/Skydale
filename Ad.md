@@ -15,13 +15,13 @@
 > 即使是「出很多奇怪的點子」，你也是有用的！\
 > \
 > 我們__**需要**__ \
->   :exclamation: 多元綜合的想法\
->   :exclamation: 付諸實踐的能力\
->   :exclamation: 永遠平等的地位\
+> \  :exclamation: 多元綜合的想法\
+> \  :exclamation: 付諸實踐的能力\
+> \  :exclamation: 永遠平等的地位\
 > 我們__**追求**__ \
->   :star2: 點子不分貴賤\
->   :star2: 質量大於數量\
->   :star2: 不分階級高低\
+> \  :star2: 點子不分貴賤\
+> \  :star2: 質量大於數量\
+> \  :star2: 不分階級高低\
 > \
 > :open_mouth: **加入我們** \
 > 就像隨插即聊說的，我們不會侷限於團隊的「內部討論」。\
@@ -29,7 +29,7 @@
 > \
 > 如果你想為我們做更多事，\
 > 直接在公頻說，有看到就會回應你了！\
-> (或是私訊 @Twinkle Sprinkle#5806)\
+> (或是私訊 @Twinkle Sprinkle#5806)
 
 :paperclip: 巴哈姆特文章 https://forum.gamer.com.tw/C.php?bsn=18673&snA=188081 \
 :paperclip: Discord 群組 https://discord.gg/5vwGqnNjYy
