@@ -34,4 +34,5 @@
 > (或是私訊 @Twinkle Sprinkle#5806)
 
 :paperclip: 巴哈姆特文章 https://skydale.github.io/bahamut/ \
-:paperclip: Discord 群組 https://skydale.github.io/discord/
+:paperclip: Discord 群組 https://skydale.github.io/discord/ \
+:paperclip: Github https://skydale.github.io/github/
