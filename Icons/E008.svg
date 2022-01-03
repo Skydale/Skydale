@@ -41,9 +41,9 @@
      inkscape:snap-bbox-midpoints="true"
      inkscape:snap-nodes="true"
      inkscape:snap-others="true"
-     inkscape:zoom="11.313709"
-     inkscape:cx="-7.7781746"
-     inkscape:cy="12.330174"
+     inkscape:zoom="5.6568545"
+     inkscape:cx="-36.062444"
+     inkscape:cy="33.499182"
      inkscape:window-width="1920"
      inkscape:window-height="1011"
      inkscape:window-x="0"
@@ -51,14 +51,14 @@
      inkscape:window-maximized="1"
      inkscape:current-layer="svg46" />
   <circle
-     style="fill:#e4e1e1;paint-order:stroke markers fill;fill-opacity:1"
+     style="fill:#d0d0cf;paint-order:stroke markers fill;fill-opacity:1"
      id="path964"
      cx="8"
      cy="-8"
      r="8"
      transform="rotate(90)" />
   <ellipse
-     style="fill:#fff46e;fill-opacity:1;paint-order:stroke markers fill"
+     style="fill:#ffecaf;fill-opacity:1;paint-order:stroke markers fill"
      id="path966"
      ry="5.0569534"
      rx="4.9727507"
@@ -66,11 +66,11 @@
      cx="8"
      transform="rotate(90)" />
   <path
-     style="fill:#fff46e;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     style="fill:#ffecaf;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      d="M 10.689318,3.7887454 H 5.310682 L 8,0 Z"
      id="path1432" />
   <path
-     style="fill:#fff46e;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     style="fill:#ffecaf;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      d="m 5.310682,12.211255 h 5.378636 L 8,16 Z"
      id="path1432-8"
      inkscape:transform-center-y="-1.8943725" />
