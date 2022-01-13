@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="192"
+   height="192"
+   viewBox="0 0 50.799999 50.799999"
+   version="1.1"
+   id="svg60676"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   sodipodi:docname="crafting_background.svg"
+   inkscape:export-filename="/mnt/data/Files/Projects/Programming/InfDev/Skydale/Asset/crafting_background.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview60678"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="px"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true"
+     inkscape:snap-text-baseline="true"
+     inkscape:snap-page="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-paths="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:zoom="2.9291246"
+     inkscape:cx="84.154837"
+     inkscape:cy="87.910225"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs60673">
+    <filter
+       inkscape:label="Feather"
+       inkscape:menu="Bevels"
+       inkscape:menu-tooltip="Soft bevel, slightly depressed middle"
+       style="color-interpolation-filters:sRGB"
+       id="filter54277"
+       x="-0.23670066"
+       y="-0.23670066"
+       width="1.4734013"
+       height="1.4734013">
+      <feGaussianBlur
+         stdDeviation="2.3"
+         in="SourceAlpha"
+         result="result0"
+         id="feGaussianBlur54251" />
+      <feMorphology
+         in="SourceAlpha"
+         radius="6.6"
+         result="result1"
+         id="feMorphology54253" />
+      <feGaussianBlur
+         stdDeviation="8.9"
+         in="result1"
+         id="feGaussianBlur54255" />
+      <feColorMatrix
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.3 0"
+         result="result91"
+         id="feColorMatrix54257" />
+      <feComposite
+         in="result0"
+         operator="out"
+         result="result2"
+         in2="result91"
+         id="feComposite54259" />
+      <feGaussianBlur
+         stdDeviation="1.7"
+         result="result4"
+         id="feGaussianBlur54261" />
+      <feDiffuseLighting
+         surfaceScale="10"
+         id="feDiffuseLighting54265">
+        <feDistantLight
+           azimuth="225"
+           elevation="45"
+           id="feDistantLight54263" />
+      </feDiffuseLighting>
+      <feBlend
+         in2="SourceGraphic"
+         mode="multiply"
+         id="feBlend54267" />
+      <feComposite
+         in2="SourceAlpha"
+         operator="in"
+         result="result3"
+         id="feComposite54269" />
+      <feSpecularLighting
+         in="result4"
+         surfaceScale="5"
+         specularExponent="17.89999962"
+         id="feSpecularLighting54273">
+        <feDistantLight
+           azimuth="225"
+           elevation="45"
+           id="feDistantLight54271" />
+      </feSpecularLighting>
+      <feComposite
+         in2="result3"
+         operator="atop"
+         id="feComposite54275"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix54979" />
+      <feColorMatrix
+         id="feColorMatrix54981"
+         values="2.57835 -0.23 -0.23 0 0 -0.23 2.57835 -0.23 0 0 -0.23 -0.23 2.57835 0 0 0 0 0 1 0 "
+         in="fbSourceGraphic"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix55909" />
+      <feFlood
+         id="feFlood55911"
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         in="fbSourceGraphic" />
+      <feComposite
+         in2="fbSourceGraphic"
+         id="feComposite55913"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur55915"
+         in="composite1"
+         stdDeviation="10"
+         result="blur" />
+      <feOffset
+         id="feOffset55917"
+         dx="0"
+         dy="0"
+         result="offset" />
+      <feComposite
+         in2="offset"
+         id="feComposite55919"
+         in="fbSourceGraphic"
+         operator="over"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix56295" />
+      <feGaussianBlur
+         id="feGaussianBlur56297"
+         stdDeviation="4.87547"
+         result="blur"
+         in="fbSourceGraphic" />
+      <feComposite
+         in2="blur"
+         id="feComposite56299"
+         in="fbSourceGraphic"
+         operator="atop"
+         result="composite1" />
+      <feComposite
+         in2="composite1"
+         id="feComposite56301"
+         operator="in"
+         result="composite2" />
+      <feComposite
+         in2="composite2"
+         id="feComposite56303"
+         operator="in"
+         result="composite3" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <image
+       width="281.62628"
+       height="281.62628"
+       preserveAspectRatio="none"
+       xlink:href="data:image/png;base64,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 RU5ErkJggg== "
+       id="image53946"
+       x="76.007462"
+       y="484.17343"
+       inkscape:label="crafting_base"
+       style="filter:url(#filter54277)"
+       transform="matrix(0.18038089,0,0,0.18038089,-13.710293,-87.335633)" />
+  </g>
+</svg>

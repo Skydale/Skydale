@@ -1,1 +1,177 @@
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="63.67558" height="72.51066" viewBox="0 0 63.67558 72.51066"><defs><clipPath id="clip-path" transform="translate(-0.40431 4.39689)"><polygon points="18.589 10.911 32.088 0 32.04 21.718 18.589 10.911" fill="none"/></clipPath><clipPath id="clip-path-2" transform="translate(-0.40431 4.39689)"><polygon points="45.479 10.853 32.088 0 32.04 21.718 45.479 10.853" fill="none"/></clipPath><clipPath id="clip-path-3" transform="translate(-0.40431 4.39689)"><polygon points="50.083 44.522 45.479 10.853 32.04 21.718 50.083 44.522" fill="none"/></clipPath><clipPath id="clip-path-4" transform="translate(-0.40431 4.39689)"><polygon points="32.04 64 50.083 44.522 32.04 21.718 32.04 64" fill="none"/></clipPath><clipPath id="clip-path-5" transform="translate(-0.40431 4.39689)"><polygon points="13.997 44.522 32.04 21.718 32.04 64 13.997 44.522" fill="none"/></clipPath><clipPath id="clip-path-6" transform="translate(-0.40431 4.39689)"><polygon points="13.997 44.522 18.589 10.911 32.04 21.718 13.997 44.522" fill="none"/></clipPath></defs><g id="Layer_2" data-name="Layer 2"><g clip-path="url(#clip-path)"><rect x="6.65727" y="2.54765" width="43.0214" height="34.96932" fill="#6bcce0"/></g><g clip-path="url(#clip-path-2)"><rect x="29.54782" width="28.29341" height="32.73159" fill="#89d5ec"/></g><g clip-path="url(#clip-path-3)"><rect x="29.95773" y="10.43775" width="33.71786" height="42.22437" fill="#88d2da"/></g><g clip-path="url(#clip-path-4)"><rect x="25.78047" y="23.33919" width="25.1497" height="47.83374" fill="#73a2d6"/></g><g clip-path="url(#clip-path-5)"><rect x="9.92896" y="19.49904" width="30.72825" height="53.01162" fill="#7c80be"/></g><g clip-path="url(#clip-path-6)"><rect y="10.00626" width="38.89573" height="46.2927" fill="#40bae7"/></g></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Layer_1"
+   data-name="Layer 1"
+   width="64"
+   height="64"
+   viewBox="0 0 64.000001 64.000002"
+   version="1.1"
+   sodipodi:docname="logo_crystal.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   inkscape:export-filename="/mnt/data/Files/Projects/Programming/InfDev/Skydale/Logo/logo_crystal.png"
+   inkscape:export-xdpi="384"
+   inkscape:export-ydpi="384"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview48"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true"
+     inkscape:snap-text-baseline="true"
+     inkscape:snap-page="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:zoom="2.2280912"
+     inkscape:cx="-100.75889"
+     inkscape:cy="54.979795"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1"
+     width="64px" />
+  <defs
+     id="defs20">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1927">
+      <polygon
+         points="32.04,21.718 13.997,44.522 18.589,10.911 "
+         fill="none"
+         id="polygon1929"
+         transform="translate(-1.1444092e-5,4.4283089)"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1931">
+      <polygon
+         points="32.04,64 13.997,44.522 32.04,21.718 "
+         fill="none"
+         id="polygon1933"
+         transform="translate(-1.1444092e-5,4.4283089)"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1939">
+      <polygon
+         points="32.04,21.718 50.083,44.522 45.479,10.853 "
+         fill="none"
+         id="polygon1941"
+         transform="translate(-1.1444092e-5,4.4283089)"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1943">
+      <polygon
+         points="32.04,21.718 45.479,10.853 32.088,0 "
+         fill="none"
+         id="polygon1945"
+         transform="translate(-1.1444092e-5,4.4283089)"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1951">
+      <polygon
+         points="18.589,10.911 32.088,0 32.04,21.718 "
+         fill="none"
+         id="polygon1953"
+         transform="translate(-1.1444092e-5,4.4283089)"
+         style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1956">
+      <polygon
+         points="32.04,64 50.083,44.522 32.04,21.718 "
+         fill="none"
+         id="polygon1958"
+         transform="translate(-1.1444092e-5,4.4283089)"
+         style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1" />
+    </clipPath>
+  </defs>
+  <path
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 32.41241,0 -13.499,10.911 -4.592,33.611 18.043,19.478 18.043,-19.478 -4.604,-33.669 z"
+     id="path1735" />
+  <rect
+     x="7.0615888"
+     y="1.4589906"
+     width="43.0214"
+     height="34.969318"
+     fill="#6bcce0"
+     id="rect22"
+     style="display:inline"
+     clip-path="url(#clipPath1951)"
+     transform="translate(0.32442093,-4.4283089)" />
+  <rect
+     x="29.547808"
+     width="28.293409"
+     height="32.73159"
+     fill="#89d5ec"
+     id="rect26"
+     y="4.428309"
+     style="display:inline"
+     clip-path="url(#clipPath1943)"
+     transform="translate(0.32442093,-4.4283089)" />
+  <rect
+     x="29.957718"
+     y="14.866058"
+     width="33.717861"
+     height="42.224369"
+     fill="#88d2da"
+     id="rect30"
+     style="display:inline"
+     clip-path="url(#clipPath1939)"
+     transform="translate(0.32442093,-4.4283089)" />
+  <rect
+     x="24.933289"
+     y="23.37044"
+     width="25.1497"
+     height="47.83374"
+     fill="#73a2d6"
+     id="rect34"
+     style="display:inline"
+     clip-path="url(#clipPath1956)"
+     transform="translate(0.32442093,-4.4283089)" />
+  <rect
+     x="9.9289484"
+     y="23.927349"
+     width="30.728251"
+     height="53.01162"
+     fill="#7c80be"
+     id="rect38"
+     style="display:inline"
+     clip-path="url(#clipPath1931)"
+     transform="translate(0.32442093,-4.4283089)" />
+  <rect
+     y="14.434568"
+     width="38.895729"
+     height="46.292702"
+     fill="#40bae7"
+     id="rect42"
+     x="-1.1444092e-05"
+     style="display:inline"
+     clip-path="url(#clipPath1927)"
+     transform="translate(0.32442093,-4.4283089)" />
+</svg>
