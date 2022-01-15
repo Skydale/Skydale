@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "skydale:item/modular_item_b"
+		"1": "skydale:item/modular_item_c"
 	},
 	"elements": [
 		{
@@ -35,7 +35,6 @@
 			"to": [8.525, 21.85, 8.025],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 12.75, 8]},
 			"faces": {
-<<<<<<< HEAD:Weapon/skydale/models/item/modular_sword_c.json
 				"north": {"uv": [8.25, 8, 8.5, 15.25], "texture": "#1"},
 				"east": {"uv": [8.25, 8, 11, 15.75], "texture": "#1"},
 				"south": {"uv": [8.25, 8, 8.5, 15.25], "texture": "#1"},
@@ -55,19 +54,6 @@
 				"west": {"uv": [7.75, 8, 7.25, 10.5], "texture": "#1"},
 				"up": {"uv": [7.75, 8, 8, 15.5], "rotation": 90, "texture": "#1"},
 				"down": {"uv": [7.75, 8, 7.75, 8.75], "rotation": 270, "texture": "#missing"}
-			}
-		},
-		{
-			"from": [7.4, 17.45, -2.175],
-			"to": [8.6, 17.75, -1.875],
-			"rotation": {"angle": 45, "axis": "x", "origin": [8, 7.85, 8]},
-			"faces": {
-				"north": {"uv": [6.25, 9, 8, 11.25], "rotation": 180, "texture": "#1"},
-				"east": {"uv": [6.25, 8.25, 8, 10], "rotation": 270, "texture": "#1"},
-				"south": {"uv": [6.25, 9, 8, 11.25], "texture": "#1"},
-				"west": {"uv": [6.25, 13.75, 8, 13.75], "rotation": 90, "texture": "#1"},
-				"up": {"uv": [6.25, 8.25, 8, 10], "rotation": 180, "texture": "#1"},
-				"down": {"uv": [6.25, 8.25, 8, 10], "texture": "#1"}
 			}
 		},
 		{
@@ -94,170 +80,19 @@
 				"west": {"uv": [3.25, 8.75, 4.5, 10.25], "rotation": 180, "texture": "#1"},
 				"up": {"uv": [4.25, 8.75, 3.75, 11], "texture": "#1"},
 				"down": {"uv": [4.25, 8.75, 3.75, 11], "texture": "#1"}
-=======
-				"north": {"uv": [0, 0, 0.25, 7.25], "texture": "#1"},
-				"east": {"uv": [0, 0, 2.75, 7.75], "texture": "#1"},
-				"south": {"uv": [0, 0, 0.25, 7.25], "texture": "#1"},
-				"west": {"uv": [0, 0, 2, 2.75], "texture": "#1"},
-				"up": {"uv": [0, 0, 2.75, 7.75], "rotation": 90, "texture": "#1"},
-				"down": {"uv": [0, 0, 2.5, 1], "rotation": 270, "texture": "#missing"}
 			}
 		},
 		{
-			"from": [7.675, 2.975, 7.65],
-			"to": [8.325, 6.8, 8.35],
-			"rotation": {"angle": 0, "axis": "y", "origin": [73, -404.65, -31]},
-			"faces": {
-				"north": {"uv": [11, 7.75, 8.25, 16], "texture": "#1"},
-				"east": {"uv": [11, 7.75, 8.25, 16], "texture": "#1"},
-				"south": {"uv": [11, 7.75, 8.25, 16], "texture": "#1"},
-				"west": {"uv": [11, 7.75, 8.25, 16], "texture": "#1"},
-				"up": {"uv": [8.25, 7.75, 11, 16], "texture": "#1"},
-				"down": {"uv": [11, 16, 8.25, 7.75], "texture": "#1"}
-			}
-		},
-		{
-			"from": [7.375, 7.775, 8.9],
-			"to": [8.625, 8.275, 9.35],
+			"from": [7.4, 17.45, -2.175],
+			"to": [8.6, 17.75, -1.875],
 			"rotation": {"angle": 45, "axis": "x", "origin": [8, 7.85, 8]},
 			"faces": {
-				"north": {"uv": [10.5, 0, 12.25, 3], "rotation": 180, "texture": "#1"},
-				"east": {"uv": [9.25, 0, 10.5, 1.5], "rotation": 180, "texture": "#1"},
-				"south": {"uv": [10.5, 0, 12.25, 3], "rotation": 180, "texture": "#1"},
-				"west": {"uv": [9.25, 0, 10.5, 1.5], "rotation": 180, "texture": "#1"},
-				"up": {"uv": [10.5, 0, 12.25, 3], "texture": "#1"},
-				"down": {"uv": [10.5, 0, 12.25, 3], "texture": "#1"}
-			}
-		},
-		{
-			"from": [7.375, 6.4, 7.7],
-			"to": [8.625, 6.9, 8.75],
-			"rotation": {"angle": 45, "axis": "x", "origin": [8, 7.85, 8]},
-			"faces": {
-				"north": {"uv": [10.5, 3.5, 12.25, 7.5], "rotation": 180, "texture": "#1"},
-				"east": {"uv": [10.5, 3.5, 12.25, 7.5], "rotation": 180, "texture": "#1"},
-				"south": {"uv": [10.5, 3.5, 12.25, 7.5], "rotation": 180, "texture": "#1"},
-				"west": {"uv": [10.5, 3.5, 12.25, 7.5], "rotation": 180, "texture": "#1"},
-				"up": {"uv": [10.5, 3.5, 12.25, 7.5], "texture": "#1"},
-				"down": {"uv": [10.5, 3.5, 12.25, 7.5], "texture": "#1"}
-			}
-		},
-		{
-			"from": [7.45, 7.5, 6.65],
-			"to": [8.55, 7.95, 7.175],
-			"rotation": {"angle": 45, "axis": "x", "origin": [8, 7.85, 8]},
-			"faces": {
-				"north": {"uv": [9.5, 2, 11.5, 4.75], "rotation": 180, "texture": "#1"},
-				"east": {"uv": [9.5, 2, 11.5, 4.75], "rotation": 180, "texture": "#1"},
-				"south": {"uv": [9.5, 2, 11.5, 4.75], "rotation": 180, "texture": "#1"},
-				"west": {"uv": [9.5, 2, 11.5, 4.75], "rotation": 180, "texture": "#1"},
-				"up": {"uv": [9.5, 2, 11.5, 4.75], "texture": "#1"},
-				"down": {"uv": [9.5, 2, 11.5, 4.75], "texture": "#1"}
-			}
-		},
-		{
-			"from": [7.525, 8.575, 7.925],
-			"to": [8.45, 9.125, 8.6],
-			"rotation": {"angle": 45, "axis": "x", "origin": [8, 7.85, 8]},
-			"faces": {
-				"north": {"uv": [9.5, 2, 11.5, 4.75], "rotation": 180, "texture": "#1"},
-				"east": {"uv": [9.5, 2, 11.5, 4.75], "rotation": 90, "texture": "#1"},
-				"south": {"uv": [9.5, 2, 11.5, 4.75], "texture": "#1"},
-				"west": {"uv": [9.5, 2, 11.5, 4.75], "rotation": 270, "texture": "#1"},
-				"up": {"uv": [9.5, 2, 11.5, 4.75], "texture": "#1"},
-				"down": {"uv": [9.5, 2, 11.5, 4.75], "rotation": 180, "texture": "#1"}
-			}
-		},
-		{
-			"from": [7.575, 6.8, 6.95],
-			"to": [8.425, 8.9, 9.05],
-			"rotation": {"angle": 45, "axis": "x", "origin": [8, 7.85, 8]},
-			"faces": {
-				"north": {"uv": [8.25, 7.75, 11, 0], "rotation": 180, "texture": "#1"},
-				"east": {"uv": [8.25, 7.75, 11, 0], "rotation": 270, "texture": "#1"},
-				"south": {"uv": [8.25, 7.75, 11, 0], "texture": "#1"},
-				"west": {"uv": [8.25, 7.75, 11, 0], "rotation": 90, "texture": "#1"},
-				"up": {"uv": [8.25, 7.75, 11, 0], "rotation": 180, "texture": "#1"},
-				"down": {"uv": [8.25, 7.75, 11, 0], "texture": "#1"}
-			}
-		},
-		{
-			"from": [7.3, 7.325, 7.2],
-			"to": [8.7, 7.925, 7.8],
-			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7.85, 8]},
-			"faces": {
-				"north": {"uv": [10, 2.5, 9.5, 4.75], "rotation": 180, "texture": "#1"},
-				"east": {"uv": [10, 2.5, 11.5, 4.75], "rotation": 180, "texture": "#1"},
-				"south": {"uv": [10, 2.5, 9.5, 4.75], "rotation": 180, "texture": "#1"},
-				"west": {"uv": [9, 2.5, 10.25, 4], "rotation": 180, "texture": "#1"},
-				"up": {"uv": [10, 2.5, 9.5, 4.75], "texture": "#1"},
-				"down": {"uv": [10, 2.5, 9.5, 4.75], "texture": "#1"}
-			}
-		},
-		{
-			"from": [7.375, 7.4, 7.225],
-			"to": [8.625, 8.2, 8.075],
-			"rotation": {"angle": 45, "axis": "x", "origin": [8, 7.85, 8]},
-			"faces": {
-				"north": {"uv": [11, 8.5, 13.75, 11], "rotation": 180, "texture": "#1"},
-				"east": {"uv": [11, 8.5, 13.75, 11], "rotation": 180, "texture": "#1"},
-				"south": {"uv": [11, 8.5, 13.75, 11], "rotation": 180, "texture": "#1"},
-				"west": {"uv": [11, 8.5, 13.75, 11], "rotation": 180, "texture": "#1"},
-				"up": {"uv": [11, 8.5, 13.75, 11], "texture": "#1"},
-				"down": {"uv": [11, 8.5, 13.75, 11], "texture": "#1"}
-			}
-		},
-		{
-			"from": [7.425, 7.45, 7.4],
-			"to": [8.575, 8.6, 8.65],
-			"rotation": {"angle": 45, "axis": "x", "origin": [8, 7.85, 8]},
-			"faces": {
-				"north": {"uv": [11, 9.25, 13.5, 11.75], "rotation": 180, "texture": "#1"},
-				"east": {"uv": [11, 9.25, 13.5, 11.75], "rotation": 180, "texture": "#1"},
-				"south": {"uv": [11, 9.25, 13.5, 11.75], "rotation": 180, "texture": "#1"},
-				"west": {"uv": [11, 9.25, 13.5, 11.75], "rotation": 180, "texture": "#1"},
-				"up": {"uv": [11, 9.25, 13.5, 11.75], "texture": "#1"},
-				"down": {"uv": [11, 9.25, 13.5, 11.75], "texture": "#1"}
-			}
-		},
-		{
-			"from": [7.25, 7.175, 7.55],
-			"to": [8.75, 8.375, 8.25],
-			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7.85, 8]},
-			"faces": {
-				"north": {"uv": [11, 12, 11.75, 16], "rotation": 180, "texture": "#1"},
-				"east": {"uv": [11, 12, 13.75, 16], "rotation": 180, "texture": "#1"},
-				"south": {"uv": [11, 12, 11.75, 16], "rotation": 180, "texture": "#1"},
-				"west": {"uv": [11, 12, 13.75, 16], "rotation": 180, "texture": "#1"},
-				"up": {"uv": [11, 12, 11.75, 16], "texture": "#1"},
-				"down": {"uv": [11, 12, 11.75, 16], "texture": "#1"}
-			}
-		},
-		{
-			"from": [7.325, 7.425, 7.875],
-			"to": [8.675, 8.125, 8.6],
-			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7.85, 8]},
-			"faces": {
-				"north": {"uv": [11.25, 7.75, 11.75, 9.5], "rotation": 180, "texture": "#1"},
-				"east": {"uv": [11.25, 7.75, 13.75, 10.5], "rotation": 180, "texture": "#1"},
-				"south": {"uv": [11.25, 7.75, 11.75, 9.5], "rotation": 180, "texture": "#1"},
-				"west": {"uv": [11.25, 7.75, 13.75, 10.5], "rotation": 180, "texture": "#1"},
-				"up": {"uv": [11.25, 7.75, 11.75, 9.5], "texture": "#1"},
-				"down": {"uv": [11.25, 7.75, 11.75, 9.5], "texture": "#1"}
-			}
-		},
-		{
-			"from": [7.2, 7, 7.875],
-			"to": [8.8, 7.5, 8.425],
-			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7.85, 8]},
-			"faces": {
-				"north": {"uv": [11.5, 11.75, 12, 13], "rotation": 180, "texture": "#1"},
-				"east": {"uv": [12.25, 11.75, 13.25, 13], "rotation": 180, "texture": "#1"},
-				"south": {"uv": [11.5, 11.75, 12, 13], "rotation": 180, "texture": "#1"},
-				"west": {"uv": [12.25, 11.75, 13.25, 13], "rotation": 180, "texture": "#1"},
-				"up": {"uv": [11.5, 11.75, 12, 13], "texture": "#1"},
-				"down": {"uv": [11.5, 11.75, 12, 13], "texture": "#1"}
->>>>>>> 887245887e0ece0d2febc4af73d1325ab6d1ba90:Weapon/skydale/models/item/modular_sword_b.json
+				"north": {"uv": [6.25, 9, 8, 11.25], "rotation": 180, "texture": "#1"},
+				"east": {"uv": [6.25, 8.25, 8, 10], "rotation": 270, "texture": "#1"},
+				"south": {"uv": [6.25, 9, 8, 11.25], "texture": "#1"},
+				"west": {"uv": [6.25, 13.75, 8, 13.75], "rotation": 90, "texture": "#1"},
+				"up": {"uv": [6.25, 8.25, 8, 10], "rotation": 180, "texture": "#1"},
+				"down": {"uv": [6.25, 8.25, 8, 10], "texture": "#1"}
 			}
 		},
 		{
@@ -389,18 +224,14 @@
 			"name": "group",
 			"origin": [8, 13.4, 8],
 			"color": 0,
-<<<<<<< HEAD:Weapon/skydale/models/item/modular_sword_c.json
-			"children": [0, 1, 2, 3, 4, 5, 6]
-=======
-			"children": [0, 1, 2, 3]
->>>>>>> 887245887e0ece0d2febc4af73d1325ab6d1ba90:Weapon/skydale/models/item/modular_sword_b.json
+			"children": [0, 1, 2, 3, 4, 5]
 		},
 		{
 			"name": "group",
 			"origin": [8, 13.4, 8],
 			"color": 0,
 			"children": [
-				4,
+				6,
 				{
 					"name": "group",
 					"origin": [8, 13.4, 8],
@@ -418,11 +249,7 @@
 					"name": "group",
 					"origin": [73, -404, -31],
 					"color": 0,
-<<<<<<< HEAD:Weapon/skydale/models/item/modular_sword_c.json
-					"children": [8, 9, 10, 11, 12, 13, 14, 15]
-=======
-					"children": [16, 17, 18, 19, 20, 21, 22]
->>>>>>> 887245887e0ece0d2febc4af73d1325ab6d1ba90:Weapon/skydale/models/item/modular_sword_b.json
+					"children": [8, 9, 10, 11, 12, 13]
 				}
 			]
 		}
