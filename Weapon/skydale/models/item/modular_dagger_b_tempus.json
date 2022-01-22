@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"1": "skydale:item/modular_item_e",
-		"2": "skydale:item/tempus-02-sheet",
-		"particle": "skydale:item/tempus-02-sheet"
+		"2": "skydale:item/tempus_a-sheet",
+		"particle": "skydale:item/tempus_a-sheet"
 	},
 	"elements": [
 		{
@@ -228,14 +228,37 @@
 			}
 		},
 		{
-			"from": [6, 9.275, 5.75],
-			"to": [10, 9.275, 9.75],
-			"rotation": {"angle": 0, "axis": "y", "origin": [8, 23.275, 7.85]},
+			"from": [6.23333, 13.425, 5.825],
+			"to": [9.73333, 13.425, 9.325],
+			"rotation": {"angle": -22.5, "axis": "x", "origin": [7.99167, 12.94167, 7.78333]},
 			"faces": {
-				"north": {"uv": [0, 0, 2.13333, 0.8], "texture": "#2"},
-				"east": {"uv": [0, 0, 2.13333, 0.8], "texture": "#2"},
-				"south": {"uv": [0, 0, 2.13333, 0.8], "texture": "#2"},
-				"west": {"uv": [0, 0, 2.13333, 0.8], "texture": "#2"},
+				"north": {"uv": [0, 0, 16, 16], "texture": "#missing"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#2"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#missing"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#2"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#2"}
+			}
+		},
+		{
+			"from": [6.25833, 12.725, 5.8],
+			"to": [9.75833, 12.725, 9.3],
+			"rotation": {"angle": -22.5, "axis": "x", "origin": [7.99167, 12.94167, 7.78333]},
+			"faces": {
+				"east": {"uv": [0, 0, 16, 16], "texture": "#missing"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#2"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#missing"},
+				"up": {"uv": [0, 0, 16, 16], "rotation": 90, "texture": "#2"},
+				"down": {"uv": [0, 0, 16, 16], "rotation": 270, "texture": "#2"}
+			}
+		},
+		{
+			"from": [6.23333, 11.925, 5.725],
+			"to": [9.73333, 11.925, 9.225],
+			"rotation": {"angle": -22.5, "axis": "x", "origin": [7.99167, 12.94167, 7.78333]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#missing"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#2"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#missing"},
 				"up": {"uv": [0, 0, 16, 16], "texture": "#2"},
 				"down": {"uv": [0, 0, 16, 16], "texture": "#2"}
 			}
@@ -304,6 +327,11 @@
 				}
 			]
 		},
-		17
+		{
+			"name": "group",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [17, 18, 19]
+		}
 	]
 }

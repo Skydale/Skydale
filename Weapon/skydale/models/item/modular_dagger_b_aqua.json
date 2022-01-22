@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"1": "skydale:item/modular_item_e",
-		"2": "skydale:item/tempus-02-sheet",
-		"particle": "skydale:item/tempus-02-sheet"
+		"2": "skydale:item/aqua-02-sheet",
+		"particle": "skydale:item/aqua-02-sheet"
 	},
 	"elements": [
 		{
@@ -228,14 +228,9 @@
 			}
 		},
 		{
-			"from": [6, 9.275, 5.75],
-			"to": [10, 9.275, 9.75],
-			"rotation": {"angle": 0, "axis": "y", "origin": [8, 23.275, 7.85]},
+			"from": [4.55, 7.475, 4.2],
+			"to": [11.55, 7.475, 11.2],
 			"faces": {
-				"north": {"uv": [0, 0, 2.13333, 0.8], "texture": "#2"},
-				"east": {"uv": [0, 0, 2.13333, 0.8], "texture": "#2"},
-				"south": {"uv": [0, 0, 2.13333, 0.8], "texture": "#2"},
-				"west": {"uv": [0, 0, 2.13333, 0.8], "texture": "#2"},
 				"up": {"uv": [0, 0, 16, 16], "texture": "#2"},
 				"down": {"uv": [0, 0, 16, 16], "texture": "#2"}
 			}
@@ -304,6 +299,11 @@
 				}
 			]
 		},
-		17
+		{
+			"name": "group",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [17]
+		}
 	]
 }
