@@ -1,7 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "skydale:item/modular_item_f"
+		"1": "skydale:item/modular_item_f",
+		"2": "skydale:item/lumen_Sprite",
+		"particle": "skydale:item/lumen_Sprite"
 	},
 	"elements": [
 		{
@@ -185,6 +187,14 @@
 				"up": {"uv": [8.75, 8, 11, 14.75], "texture": "#1"},
 				"down": {"uv": [8.75, 8, 11, 14.75], "texture": "#1"}
 			}
+		},
+		{
+			"from": [6.25, 13.55, 6.025],
+			"to": [9.75, 13.55, 9.525],
+			"faces": {
+				"up": {"uv": [0, 0, 16, 16], "texture": "#2"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#2"}
+			}
 		}
 	],
 	"display": {
@@ -246,6 +256,12 @@
 					"children": [11, 12, 13]
 				}
 			]
+		},
+		{
+			"name": "group",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [14]
 		}
 	]
 }
