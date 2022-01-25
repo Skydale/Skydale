@@ -1,7 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "skydale:item/modular_item_e"
+		"1": "skydale:item/modular_item_e",
+		"2": "skydale:item/d_c",
+		"particle": "skydale:item/d_c"
 	},
 	"elements": [
 		{
@@ -226,12 +228,11 @@
 			}
 		},
 		{
-			"from": [6.25, 13.55, 6.025],
-			"to": [9.75, 13.55, 9.525],
-			"color": 5,
+			"from": [6.25, 11.1, 6.025],
+			"to": [9.75, 11.1, 9.525],
 			"faces": {
-				"up": {"uv": [0, 0, 16, 16], "texture": "#missing"},
-				"down": {"uv": [0, 0, 16, 16], "texture": "#missing"}
+				"up": {"uv": [0, 0, 16, 16], "texture": "#2"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#2"}
 			}
 		}
 	],
@@ -242,7 +243,7 @@
 		},
 		"thirdperson_lefthand": {
 			"rotation": [0, 20, 10],
-			"translation": [-1, 2.25, 1.5]
+			"translation": [-0.25, 2.25, 1.25]
 		},
 		"firstperson_righthand": {
 			"rotation": [-6.5, 0, 4.5],
