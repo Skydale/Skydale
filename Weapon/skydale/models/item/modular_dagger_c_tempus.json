@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"1": "skydale:item/modular_item_f",
-		"2": "skydale:item/lumen_Sprite",
-		"particle": "skydale:item/lumen_Sprite"
+		"2": "skydale:item/tempus_b",
+		"particle": "skydale:item/tempus_b"
 	},
 	"elements": [
 		{
@@ -189,11 +189,27 @@
 			}
 		},
 		{
-			"from": [6.25, 13.8, 6.025],
-			"to": [9.75, 13.8, 9.525],
+			"from": [6.35, 9.05, 4.575],
+			"to": [9.35, 9.05, 7.575],
 			"faces": {
-				"up": {"uv": [0, 0, 16, 16], "texture": "#2"},
-				"down": {"uv": [0, 0, 16, 16], "texture": "#2"}
+				"north": {"uv": [0, 0, 16, 16], "texture": "#missing"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#missing"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#missing"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#missing"},
+				"up": {"uv": [16, 0, 0, 16], "rotation": 90, "texture": "#2"},
+				"down": {"uv": [16, 16, 0, 0], "rotation": 270, "texture": "#2"}
+			}
+		},
+		{
+			"from": [6.35, 9.05, 7.95],
+			"to": [9.35, 9.05, 10.95],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#missing"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#missing"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#missing"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#missing"},
+				"up": {"uv": [16, 16, 0, 0], "rotation": 90, "texture": "#2"},
+				"down": {"uv": [16, 0, 0, 16], "rotation": 270, "texture": "#2"}
 			}
 		}
 	],
@@ -259,9 +275,9 @@
 		},
 		{
 			"name": "group",
-			"origin": [8, 8, 8],
+			"origin": [0, 0, 0],
 			"color": 0,
-			"children": [14]
+			"children": [14, 15]
 		}
 	]
 }

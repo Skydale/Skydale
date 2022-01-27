@@ -2,8 +2,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"1": "skydale:item/modular_item_f",
-		"2": "skydale:item/lumen_Sprite",
-		"particle": "skydale:item/lumen_Sprite"
+		"3": "skydale:item/d_b"
 	},
 	"elements": [
 		{
@@ -189,11 +188,11 @@
 			}
 		},
 		{
-			"from": [6.25, 13.8, 6.025],
-			"to": [9.75, 13.8, 9.525],
+			"from": [7.6, 11.05, 7.2],
+			"to": [8.4, 12.15, 8.3],
 			"faces": {
-				"up": {"uv": [0, 0, 16, 16], "texture": "#2"},
-				"down": {"uv": [0, 0, 16, 16], "texture": "#2"}
+				"east": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#3"}
 			}
 		}
 	],

@@ -2,8 +2,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"1": "skydale:item/modular_item_f",
-		"2": "skydale:item/lumen_Sprite",
-		"particle": "skydale:item/lumen_Sprite"
+		"3": "skydale:item/terra"
 	},
 	"elements": [
 		{
@@ -189,11 +188,15 @@
 			}
 		},
 		{
-			"from": [6.25, 13.8, 6.025],
-			"to": [9.75, 13.8, 9.525],
+			"from": [7.625, 10.45, 7.3],
+			"to": [8.375, 11, 8.2],
 			"faces": {
-				"up": {"uv": [0, 0, 16, 16], "texture": "#2"},
-				"down": {"uv": [0, 0, 16, 16], "texture": "#2"}
+				"north": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#3"}
 			}
 		}
 	],
