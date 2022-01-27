@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"1": "skydale:item/modular_item_f",
-		"3": "skydale:item/terra"
+		"3": "skydale:item/earth_c"
 	},
 	"elements": [
 		{
@@ -188,15 +188,37 @@
 			}
 		},
 		{
-			"from": [7.625, 10.45, 7.3],
-			"to": [8.375, 11, 8.2],
+			"from": [7.475, 8.625, 8.75],
+			"to": [8.525, 9.425, 9.55],
+			"faces": {
+				"east": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#3"}
+			}
+		},
+		{
+			"from": [7.475, 8.625, 7.825],
+			"to": [8.525, 9.425, 8.625],
+			"faces": {
+				"east": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#3"}
+			}
+		},
+		{
+			"from": [7.475, 8.625, 6.9],
+			"to": [8.525, 9.425, 7.7],
+			"faces": {
+				"east": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#3"}
+			}
+		},
+		{
+			"from": [7.475, 8.625, 5.975],
+			"to": [8.525, 9.425, 6.775],
 			"faces": {
 				"north": {"uv": [0, 0, 16, 16], "texture": "#3"},
 				"east": {"uv": [0, 0, 16, 16], "texture": "#3"},
-				"south": {"uv": [0, 0, 16, 16], "texture": "#3"},
-				"west": {"uv": [0, 0, 16, 16], "texture": "#3"},
-				"up": {"uv": [0, 0, 16, 16], "texture": "#3"},
-				"down": {"uv": [0, 0, 16, 16], "texture": "#3"}
+				"west": {"uv": [0, 0, 16, 16], "texture": "#3"}
 			}
 		}
 	],
@@ -264,7 +286,7 @@
 			"name": "group",
 			"origin": [8, 8, 8],
 			"color": 0,
-			"children": [14]
+			"children": [14, 15, 16, 17]
 		}
 	]
 }
