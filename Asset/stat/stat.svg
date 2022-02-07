@@ -14,6 +14,7 @@
    inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
@@ -26,15 +27,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="0.80273437"
-     inkscape:cx="279.6691"
-     inkscape:cy="319.53285"
+     inkscape:zoom="0.41466565"
+     inkscape:cx="-97.66905"
+     inkscape:cy="244.77552"
      inkscape:window-width="1920"
      inkscape:window-height="1011"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g1454"
+     inkscape:current-layer="g18551"
      units="px"
      inkscape:snap-object-midpoints="true"
      inkscape:snap-center="true"
@@ -416,6 +417,106 @@
          transform="translate(-1.1444092e-5,4.4283089)"
          style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1" />
     </clipPath>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter17753"
+       x="-0.16698449"
+       y="-0.195216"
+       width="1.333969"
+       height="1.390432">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3.4576983"
+         id="feGaussianBlur17755" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter17757"
+       x="-0.18376233"
+       y="-0.17638863"
+       width="1.3675247"
+       height="1.3527773">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3.1635604"
+         id="feGaussianBlur17759" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter17761"
+       x="-0.18360021"
+       y="-0.17653827"
+       width="1.3672004"
+       height="1.3530765">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3.1662338"
+         id="feGaussianBlur17763" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter17765"
+       x="-0.16655357"
+       y="-0.19580825"
+       width="1.3331071"
+       height="1.3916165">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3.4488733"
+         id="feGaussianBlur17767" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter17769"
+       x="-0.18359248"
+       y="-0.17654542"
+       width="1.367185"
+       height="1.3530908">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3.1662745"
+         id="feGaussianBlur17771" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter17773"
+       x="-0.18376808"
+       y="-0.17638334"
+       width="1.3675362"
+       height="1.3527667">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3.1634526"
+         id="feGaussianBlur17775" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18555">
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g18551"
+         id="use18557" />
+    </clipPath>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter23283"
+       x="-0.17193637"
+       y="-0.18885718"
+       width="1.3438727"
+       height="1.3777144">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.4218069"
+         id="feGaussianBlur23285" />
+    </filter>
   </defs>
   <g
      id="g1454"
@@ -446,222 +547,265 @@
      id="layer1"
      style="opacity:1"
      inkscape:groupmode="layer">
-    <path
-       style="fill:#b5b5b5;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 67.733332,9.7112409 -49.697479,29.7172841 0.0023,56.633655 49.69518,29.45247 49.697477,-29.454963 -5.3e-4,-56.633937 z"
-       id="path1508"
-       inkscape:label="back" />
     <g
-       id="g1083"
-       transform="matrix(1.49623,0,0,1.49623,-33.611319,-33.616659)"
-       style="display:inline">
-      <circle
-         style="opacity:1;mix-blend-mode:color-burn;fill:#79ffef;fill-opacity:1;stroke-width:0.452469;paint-order:stroke markers fill"
-         id="path1261-1"
-         cx="67.733337"
-         cy="106.35484"
-         clip-path="url(#clipPath57769)"
-         r="28.958048"
-         inkscape:label="cyan" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:5.22771px;line-height:1.25;font-family:'GenRyuMin TW';-inkscape-font-specification:'GenRyuMin TW Semi-Bold';text-align:center;text-anchor:middle;mix-blend-mode:overlay;stroke-width:0.291829"
-         x="67.728813"
-         y="93.778748"
-         id="text35517-1"
-         inkscape:label="魔力"><tspan
-           sodipodi:role="line"
-           id="tspan35515-0"
-           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:5.22771px;font-family:'GenRyuMin TW';-inkscape-font-specification:'GenRyuMin TW Semi-Bold';stroke-width:0.291829"
-           x="67.728813"
-           y="93.778748">魔力</tspan></text>
+       id="g18553"
+       clip-path="url(#clipPath18555)"
+       inkscape:label="stats">
+      <g
+         inkscape:label="Clip"
+         id="g18551">
+        <path
+           style="display:inline;opacity:1;mix-blend-mode:normal;fill:#e3e3e3;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 67.732832,9.97364 -49.69748,29.454959 0.0028,56.633581 49.694695,29.45254 49.697483,-29.45496 2e-5,-56.631166 z"
+           id="path1508-3"
+           inkscape:label="back"
+           sodipodi:nodetypes="ccccccc" />
+        <g
+           id="g1004"
+           inkscape:label="stats">
+          <circle
+             style="display:none;opacity:1;mix-blend-mode:multiply;fill:#79ffef;fill-opacity:1;stroke:none;stroke-width:0.00014149;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
+             id="path1261-1"
+             cx="67.733337"
+             cy="106.35484"
+             clip-path="url(#clipPath57769)"
+             r="28.958048"
+             inkscape:label="cyan"
+             transform="matrix(1.49623,0,0,1.49623,-33.611319,-33.616659)" />
+          <path
+             style="opacity:1;mix-blend-mode:multiply;fill:#79ffef;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter17753)"
+             d="M 76.11634,83.00545 92.582089,110.78716 67.733332,125.51465 42.886001,110.78837 59.354452,83.0118 Z"
+             id="path8280"
+             sodipodi:nodetypes="cccccc"
+             inkscape:label="cyan_2"
+             transform="matrix(1.0405006,0,0,1.0405006,-2.7432402,-2.7441027)" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:7.82186px;line-height:1.25;font-family:'GenRyuMin TW';-inkscape-font-specification:'GenRyuMin TW Semi-Bold';text-align:center;text-anchor:middle;display:inline;opacity:1;mix-blend-mode:difference;fill:#494949;fill-opacity:1;stroke:none;stroke-width:0.00026458;stroke-miterlimit:4;stroke-dasharray:none"
+             x="67.726562"
+             y="106.69791"
+             id="text35517-1"
+             inkscape:label="魔力"><tspan
+               sodipodi:role="line"
+               id="tspan35515-0"
+               style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:7.82186px;font-family:'GenRyuMin TW';-inkscape-font-specification:'GenRyuMin TW Semi-Bold';fill:#494949;fill-opacity:1;stroke:none;stroke-width:0.00026458;stroke-miterlimit:4;stroke-dasharray:none"
+               x="67.726562"
+               y="106.69791">魔力</tspan></text>
+          <circle
+             style="display:none;opacity:1;mix-blend-mode:multiply;fill:#faff86;fill-opacity:1;stroke:none;stroke-width:0.00014149;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
+             id="path1261-6"
+             cx="34.520065"
+             cy="86.670341"
+             clip-path="url(#clipPath57765)"
+             r="28.958048"
+             inkscape:label="yellow"
+             transform="matrix(1.49623,0,0,1.49623,-33.611319,-33.616659)" />
+          <path
+             style="opacity:1;mix-blend-mode:multiply;fill:#faff86;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter17757)"
+             d="M 59.354452,83.0118 42.886001,110.78837 18.038152,96.06218 18.037253,67.745315 50.831326,67.743958 Z"
+             id="path8282"
+             sodipodi:nodetypes="cccccc"
+             sodipodi:insensitive="true"
+             inkscape:label="yellow_2"
+             transform="matrix(1.0405006,0,0,1.0405006,-2.7432402,-2.7441027)" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:7.82186px;line-height:1.25;font-family:'GenRyuMin TW';-inkscape-font-specification:'GenRyuMin TW Semi-Bold';text-align:center;text-anchor:middle;display:inline;opacity:1;mix-blend-mode:difference;fill:#494949;fill-opacity:1;stroke:none;stroke-width:0.00026458;stroke-miterlimit:4;stroke-dasharray:none"
+             x="34.809441"
+             y="90.196548"
+             id="text35517-5"
+             inkscape:label="敏捷"><tspan
+               sodipodi:role="line"
+               id="tspan35515-1"
+               style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:7.82186px;font-family:'GenRyuMin TW';-inkscape-font-specification:'GenRyuMin TW Semi-Bold';fill:#494949;fill-opacity:1;stroke:none;stroke-width:0.00026458;stroke-miterlimit:4;stroke-dasharray:none"
+               x="34.809441"
+               y="90.196548">敏捷</tspan></text>
+          <circle
+             style="display:none;opacity:1;mix-blend-mode:multiply;fill:#ffbef3;fill-opacity:0.998763;stroke:none;stroke-width:0.00014149;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
+             id="path1261-6-3"
+             cx="100.94847"
+             cy="86.668724"
+             clip-path="url(#clipPath57749)"
+             r="28.958048"
+             inkscape:label="purple"
+             transform="matrix(1.49623,0,0,1.49623,-33.611319,-33.616659)" />
+          <path
+             style="opacity:1;mix-blend-mode:multiply;fill:#ffbef3;fill-opacity:0.998763;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter17773)"
+             d="m 84.636485,67.742924 -8.520145,15.262526 16.465749,27.78171 24.848721,-14.727489 3e-5,-28.315547 z"
+             id="path8290"
+             sodipodi:nodetypes="cccccc"
+             inkscape:label="purple_2"
+             transform="matrix(1.0405006,0,0,1.0405006,-2.7432402,-2.7441027)" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:7.82186px;line-height:1.25;font-family:'GenRyuMin TW';-inkscape-font-specification:'GenRyuMin TW Semi-Bold';text-align:center;text-anchor:middle;display:inline;opacity:1;mix-blend-mode:difference;fill:#494949;fill-opacity:1;stroke:none;stroke-width:0.00026458;stroke-miterlimit:4;stroke-dasharray:none"
+             x="100.67257"
+             y="90.136223"
+             id="text35517-8"
+             inkscape:label="詛咒"><tspan
+               sodipodi:role="line"
+               id="tspan35515-9"
+               style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:7.82186px;font-family:'GenRyuMin TW';-inkscape-font-specification:'GenRyuMin TW Semi-Bold';fill:#494949;fill-opacity:1;stroke:none;stroke-width:0.00026458;stroke-miterlimit:4;stroke-dasharray:none"
+               x="100.67257"
+               y="90.136223">詛咒</tspan></text>
+          <circle
+             style="display:none;opacity:1;mix-blend-mode:multiply;fill:#fbffcb;fill-opacity:1;stroke:none;stroke-width:0.00014149;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
+             id="path1261-8"
+             cx="34.518204"
+             cy="48.819489"
+             clip-path="url(#clipPath57761)"
+             inkscape:label="white"
+             transform="matrix(1.49623,0,0,1.49623,-33.611319,-33.616659)"
+             r="28.958048" />
+          <path
+             style="opacity:1;mix-blend-mode:multiply;fill:#fbffcb;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter17761)"
+             d="M 18.037253,67.745315 50.831326,67.743958 59.424482,52.246021 42.884593,24.701044 18.035853,39.428525 Z"
+             id="path8284"
+             sodipodi:nodetypes="cccccc"
+             inkscape:label="white_2"
+             transform="matrix(1.0405006,0,0,1.0405006,-2.7432402,-2.7441027)" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:7.82186px;line-height:1.25;font-family:'GenRyuMin TW';-inkscape-font-specification:'GenRyuMin TW Semi-Bold';text-align:center;text-anchor:middle;display:inline;opacity:1;mix-blend-mode:difference;fill:#494949;fill-opacity:1;stroke:none;stroke-width:0.00026458;stroke-miterlimit:4;stroke-dasharray:none"
+             x="34.854855"
+             y="52.627602"
+             id="text35517-10"
+             inkscape:label="祝福"><tspan
+               sodipodi:role="line"
+               id="tspan35515-8"
+               style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:7.82186px;font-family:'GenRyuMin TW';-inkscape-font-specification:'GenRyuMin TW Semi-Bold';fill:#494949;fill-opacity:1;stroke:none;stroke-width:0.00026458;stroke-miterlimit:4;stroke-dasharray:none"
+               x="34.854855"
+               y="52.627602">祝福</tspan></text>
+          <circle
+             style="display:none;opacity:1;mix-blend-mode:multiply;fill:#ff816c;fill-opacity:0.999433;stroke:none;stroke-width:0.00014149;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
+             id="path1261"
+             cx="67.733337"
+             cy="28.958048"
+             clip-path="url(#clipPath57757)"
+             r="28.958048"
+             inkscape:label="red"
+             transform="matrix(1.49623,0,0,1.49623,-33.611319,-33.616659)" />
+          <path
+             style="opacity:1;mix-blend-mode:multiply;fill:#ff816c;fill-opacity:0.999433;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter17765)"
+             d="M 67.733332,9.9735647 42.884593,24.701044 59.424482,52.246021 76.039945,52.235441 92.582092,24.701042 Z"
+             id="path8286"
+             sodipodi:nodetypes="cccccc"
+             inkscape:label="red_2"
+             transform="matrix(1.0405006,0,0,1.0405006,-2.7432402,-2.7441027)" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:7.82186px;line-height:1.25;font-family:'GenRyuMin TW';-inkscape-font-specification:'GenRyuMin TW Semi-Bold';text-align:center;text-anchor:middle;display:inline;opacity:1;mix-blend-mode:difference;fill:#494949;fill-opacity:1;stroke:none;stroke-width:0.00026458;stroke-miterlimit:4;stroke-dasharray:none"
+             x="67.914291"
+             y="33.212471"
+             id="text35517"
+             inkscape:label="蠻力"><tspan
+               sodipodi:role="line"
+               id="tspan35515"
+               style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:7.82186px;font-family:'GenRyuMin TW';-inkscape-font-specification:'GenRyuMin TW Semi-Bold';fill:#494949;fill-opacity:1;stroke:none;stroke-width:0.00026458;stroke-miterlimit:4;stroke-dasharray:none"
+               x="67.914291"
+               y="33.212471">蠻力</tspan></text>
+          <circle
+             style="display:none;opacity:1;mix-blend-mode:multiply;fill:#84ff8a;fill-opacity:1;stroke:none;stroke-width:5.53e-05;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
+             id="path1261-8-4"
+             cx="100.94815"
+             cy="48.817635"
+             clip-path="url(#clipPath57753)"
+             inkscape:label="green"
+             transform="matrix(1.49623,0,0,1.49623,-33.611319,-33.616659)"
+             r="28.958048" />
+          <path
+             style="opacity:1;mix-blend-mode:multiply;fill:#84ff8a;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter17769)"
+             d="m 92.582092,24.701042 -16.542147,27.534399 8.59654,15.507483 32.794355,0.0012 1e-5,-28.315582 z"
+             id="path8288"
+             sodipodi:nodetypes="cccccc"
+             inkscape:label="green_2"
+             transform="matrix(1.0405006,0,0,1.0405006,-2.7432402,-2.7441027)" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:7.82186px;line-height:1.25;font-family:'GenRyuMin TW';-inkscape-font-specification:'GenRyuMin TW Semi-Bold';text-align:center;text-anchor:middle;display:inline;opacity:1;mix-blend-mode:difference;fill:#494949;fill-opacity:1;stroke:none;stroke-width:0.00026458;stroke-miterlimit:4;stroke-dasharray:none"
+             x="100.52396"
+             y="52.725368"
+             id="text35517-0"
+             inkscape:label="防禦"><tspan
+               sodipodi:role="line"
+               id="tspan35515-2"
+               style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:7.82186px;font-family:'GenRyuMin TW';-inkscape-font-specification:'GenRyuMin TW Semi-Bold';fill:#494949;fill-opacity:1;stroke:none;stroke-width:0.00026458;stroke-miterlimit:4;stroke-dasharray:none"
+               x="100.52396"
+               y="52.725368">防禦</tspan></text>
+          <path
+             style="opacity:1;mix-blend-mode:multiply;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter23283)"
+             d="M 50.831326,67.743958 59.354452,83.0118 76.11634,83.00545 84.636485,67.742924 76.039945,52.235441 59.424482,52.246024 Z"
+             id="path23083"
+             inkscape:label="white"
+             transform="matrix(1.0405006,0,0,1.0405006,-2.7432402,-2.7441027)" />
+        </g>
+      </g>
     </g>
     <g
-       id="g1078"
-       inkscape:label="g1078"
-       transform="matrix(1.49623,0,0,1.49623,-33.611319,-33.616659)"
-       style="display:inline">
-      <circle
-         style="opacity:1;mix-blend-mode:color-burn;fill:#faff86;fill-opacity:1;stroke-width:0.452469;paint-order:stroke markers fill"
-         id="path1261-6"
-         cx="34.520065"
-         cy="86.670341"
-         clip-path="url(#clipPath57765)"
-         r="28.958048"
-         inkscape:label="yellow" />
+       id="g983"
+       inkscape:label="race"
+       style="display:inline"
+       sodipodi:insensitive="true">
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:5.22771px;line-height:1.25;font-family:'GenRyuMin TW';-inkscape-font-specification:'GenRyuMin TW Semi-Bold';text-align:center;text-anchor:middle;mix-blend-mode:overlay;stroke-width:0.291829"
-         x="45.728771"
-         y="82.750114"
-         id="text35517-5"
-         inkscape:label="敏捷"><tspan
-           sodipodi:role="line"
-           id="tspan35515-1"
-           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:5.22771px;font-family:'GenRyuMin TW';-inkscape-font-specification:'GenRyuMin TW Semi-Bold';stroke-width:0.291829"
-           x="45.728771"
-           y="82.750114">敏捷</tspan></text>
-    </g>
-    <g
-       id="g1073"
-       transform="matrix(1.49623,0,0,1.49623,-33.611319,-33.616659)"
-       style="display:inline">
-      <circle
-         style="opacity:1;mix-blend-mode:color-burn;fill:#c9ffcb;fill-opacity:1;stroke-width:0.452469;paint-order:stroke markers fill"
-         id="path1261-8"
-         cx="34.518204"
-         cy="48.819489"
-         clip-path="url(#clipPath57761)"
-         r="28.958048"
-         inkscape:label="white" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:5.22771px;line-height:1.25;font-family:'GenRyuMin TW';-inkscape-font-specification:'GenRyuMin TW Semi-Bold';text-align:center;text-anchor:middle;mix-blend-mode:overlay;stroke-width:0.291829"
-         x="45.759125"
-         y="57.641045"
-         id="text35517-10"
-         inkscape:label="祝福"><tspan
-           sodipodi:role="line"
-           id="tspan35515-8"
-           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:5.22771px;font-family:'GenRyuMin TW';-inkscape-font-specification:'GenRyuMin TW Semi-Bold';stroke-width:0.291829"
-           x="45.759125"
-           y="57.641045">祝福</tspan></text>
-    </g>
-    <g
-       id="g1068"
-       transform="matrix(1.49623,0,0,1.49623,-33.611319,-33.616659)"
-       style="display:inline">
-      <circle
-         style="opacity:1;mix-blend-mode:color-burn;fill:#ff816c;fill-opacity:0.999433;stroke-width:0.452469;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
-         id="path1261"
-         cx="67.733337"
-         cy="28.958048"
-         clip-path="url(#clipPath57757)"
-         r="28.958048"
-         inkscape:label="red" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:5.22771px;line-height:1.25;font-family:'GenRyuMin TW';-inkscape-font-specification:'GenRyuMin TW Semi-Bold';text-align:center;text-anchor:middle;display:inline;mix-blend-mode:overlay;stroke-width:0.291829"
-         x="67.854279"
-         y="44.665012"
-         id="text35517"
-         inkscape:label="蠻力"><tspan
-           sodipodi:role="line"
-           id="tspan35515"
-           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:5.22771px;font-family:'GenRyuMin TW';-inkscape-font-specification:'GenRyuMin TW Semi-Bold';stroke-width:0.291829"
-           x="67.854279"
-           y="44.665012">蠻力</tspan></text>
-    </g>
-    <g
-       id="g1063"
-       transform="matrix(1.49623,0,0,1.49623,-33.611319,-33.616659)"
-       style="display:inline">
-      <circle
-         style="opacity:1;mix-blend-mode:color-burn;fill:#8dff92;fill-opacity:1;stroke-width:0.452469;paint-order:stroke markers fill"
-         id="path1261-8-4"
-         cx="100.94815"
-         cy="48.817635"
-         clip-path="url(#clipPath57753)"
-         r="28.958048"
-         inkscape:label="green" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:5.22771px;line-height:1.25;font-family:'GenRyuMin TW';-inkscape-font-specification:'GenRyuMin TW Semi-Bold';text-align:center;text-anchor:middle;mix-blend-mode:overlay;stroke-width:0.291829"
-         x="89.648834"
-         y="57.706387"
-         id="text35517-0"
-         inkscape:label="防禦"><tspan
-           sodipodi:role="line"
-           id="tspan35515-2"
-           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:5.22771px;font-family:'GenRyuMin TW';-inkscape-font-specification:'GenRyuMin TW Semi-Bold';stroke-width:0.291829"
-           x="89.648834"
-           y="57.706387">防禦</tspan></text>
-    </g>
-    <g
-       id="g1058"
-       inkscape:label="g1058"
-       transform="matrix(1.49623,0,0,1.49623,-33.611319,-33.616659)"
-       style="display:inline">
-      <circle
-         style="display:inline;opacity:1;mix-blend-mode:color-burn;fill:#ffbef3;fill-opacity:0.998763;stroke-width:0.452469;paint-order:stroke markers fill"
-         id="path1261-6-3"
-         cx="100.94847"
-         cy="86.668724"
-         clip-path="url(#clipPath57749)"
-         r="28.958048"
-         inkscape:label="purple" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:5.22771px;line-height:1.25;font-family:'GenRyuMin TW';-inkscape-font-specification:'GenRyuMin TW Semi-Bold';text-align:center;text-anchor:middle;mix-blend-mode:overlay;stroke-width:0.291829"
-         x="89.748161"
-         y="82.709801"
-         id="text35517-8"
-         inkscape:label="詛咒"><tspan
-           sodipodi:role="line"
-           id="tspan35515-9"
-           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:5.22771px;font-family:'GenRyuMin TW';-inkscape-font-specification:'GenRyuMin TW Semi-Bold';stroke-width:0.291829"
-           x="89.748161"
-           y="82.709801">詛咒</tspan></text>
-    </g>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:7.22017px;line-height:1.25;font-family:'GenRyuMin TW';-inkscape-font-specification:'GenRyuMin TW Semi-Bold';text-align:center;text-anchor:middle;display:inline;mix-blend-mode:normal;fill:#000000;fill-opacity:1;stroke-width:0.630948"
-       x="67.701286"
-       y="71.169373"
-       id="text35517-89"
-       inkscape:label="人類"><tspan
-         sodipodi:role="line"
-         id="tspan35515-7"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:7.22017px;font-family:'GenRyuMin TW';-inkscape-font-specification:'GenRyuMin TW Semi-Bold';fill:#000000;fill-opacity:1;stroke-width:0.630948"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:7.22017px;line-height:1.25;font-family:'GenRyuMin TW';-inkscape-font-specification:'GenRyuMin TW Semi-Bold';text-align:center;text-anchor:middle;display:inline;mix-blend-mode:normal;fill:#000000;fill-opacity:1;stroke-width:0.630948"
          x="67.701286"
-         y="71.169373">人類</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6.01681px;line-height:1.25;font-family:'GenRyuMin TW';-inkscape-font-specification:'GenRyuMin TW Semi-Bold';text-align:center;text-anchor:middle;display:inline;mix-blend-mode:normal;fill:#000000;fill-opacity:1;stroke-width:0.436643"
-       x="78.189133"
-       y="51.948814"
-       id="text35517-89-7"
-       inkscape:label="龍人"><tspan
-         sodipodi:role="line"
-         id="tspan35515-7-6"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6.01681px;font-family:'GenRyuMin TW';-inkscape-font-specification:'GenRyuMin TW Semi-Bold';fill:#000000;fill-opacity:1;stroke-width:0.436643"
-         x="78.189133"
-         y="51.948814">龍人</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6.01681px;line-height:1.25;font-family:'GenRyuMin TW';-inkscape-font-specification:'GenRyuMin TW Semi-Bold';text-align:center;text-anchor:middle;display:inline;mix-blend-mode:normal;fill:#000000;fill-opacity:1;stroke-width:0.436643"
-       x="78.180099"
-       y="88.145256"
-       id="text35517-89-7-4"
-       inkscape:label="惡魔"><tspan
-         sodipodi:role="line"
-         id="tspan35515-7-6-3"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6.01681px;font-family:'GenRyuMin TW';-inkscape-font-specification:'GenRyuMin TW Semi-Bold';fill:#000000;fill-opacity:1;stroke-width:0.436643"
-         x="78.180099"
-         y="88.145256">惡魔</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6.01681px;line-height:1.25;font-family:'GenRyuMin TW';-inkscape-font-specification:'GenRyuMin TW Semi-Bold';text-align:center;text-anchor:middle;display:inline;mix-blend-mode:normal;fill:#000000;fill-opacity:1;stroke-width:0.436643"
-       x="57.311127"
-       y="88.127731"
-       id="text35517-89-7-4-3"
-       inkscape:label="精靈"><tspan
-         sodipodi:role="line"
-         id="tspan35515-7-6-3-3"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6.01681px;font-family:'GenRyuMin TW';-inkscape-font-specification:'GenRyuMin TW Semi-Bold';fill:#000000;fill-opacity:1;stroke-width:0.436643"
-         x="57.311127"
-         y="88.127731">精靈</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6.01681px;line-height:1.25;font-family:'GenRyuMin TW';-inkscape-font-specification:'GenRyuMin TW Semi-Bold';text-align:center;text-anchor:middle;display:inline;mix-blend-mode:normal;fill:#000000;fill-opacity:1;stroke-width:0.436643"
-       x="57.30463"
-       y="51.942799"
-       id="text35517-89-7-4-3-8"
-       inkscape:label="獸人"><tspan
-         sodipodi:role="line"
-         id="tspan35515-7-6-3-3-6"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6.01681px;font-family:'GenRyuMin TW';-inkscape-font-specification:'GenRyuMin TW Semi-Bold';fill:#000000;fill-opacity:1;stroke-width:0.436643"
-         x="57.30463"
-         y="51.942799">獸人</tspan></text>
+         y="71.169373"
+         id="text35517-89"
+         inkscape:label="人類"><tspan
+           sodipodi:role="line"
+           id="tspan35515-7"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:7.22017px;font-family:'GenRyuMin TW';-inkscape-font-specification:'GenRyuMin TW Semi-Bold';fill:#000000;fill-opacity:1;stroke-width:0.630948"
+           x="67.701286"
+           y="71.169373">人類</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6.01681px;line-height:1.25;font-family:'GenRyuMin TW';-inkscape-font-specification:'GenRyuMin TW Semi-Bold';text-align:center;text-anchor:middle;display:inline;mix-blend-mode:normal;fill:#000000;fill-opacity:1;stroke-width:0.436643"
+         x="77.975906"
+         y="53.37315"
+         id="text35517-89-7"
+         inkscape:label="龍人"><tspan
+           sodipodi:role="line"
+           id="tspan35515-7-6"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6.01681px;font-family:'GenRyuMin TW';-inkscape-font-specification:'GenRyuMin TW Semi-Bold';fill:#000000;fill-opacity:1;stroke-width:0.436643"
+           x="77.975906"
+           y="53.37315">龍人</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6.01681px;line-height:1.25;font-family:'GenRyuMin TW';-inkscape-font-specification:'GenRyuMin TW Semi-Bold';text-align:center;text-anchor:middle;display:inline;mix-blend-mode:normal;fill:#000000;fill-opacity:1;stroke-width:0.436643"
+         x="78.046364"
+         y="86.462738"
+         id="text35517-89-7-4"
+         inkscape:label="惡魔"><tspan
+           sodipodi:role="line"
+           id="tspan35515-7-6-3"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6.01681px;font-family:'GenRyuMin TW';-inkscape-font-specification:'GenRyuMin TW Semi-Bold';fill:#000000;fill-opacity:1;stroke-width:0.436643"
+           x="78.046364"
+           y="86.462738">惡魔</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6.01681px;line-height:1.25;font-family:'GenRyuMin TW';-inkscape-font-specification:'GenRyuMin TW Semi-Bold';text-align:center;text-anchor:middle;display:inline;mix-blend-mode:normal;fill:#000000;fill-opacity:1;stroke-width:0.436643"
+         x="57.448662"
+         y="86.451294"
+         id="text35517-89-7-4-3"
+         inkscape:label="精靈"><tspan
+           sodipodi:role="line"
+           id="tspan35515-7-6-3-3"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6.01681px;font-family:'GenRyuMin TW';-inkscape-font-specification:'GenRyuMin TW Semi-Bold';fill:#000000;fill-opacity:1;stroke-width:0.436643"
+           x="57.448662"
+           y="86.451294">精靈</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6.01681px;line-height:1.25;font-family:'GenRyuMin TW';-inkscape-font-specification:'GenRyuMin TW Semi-Bold';text-align:center;text-anchor:middle;display:inline;mix-blend-mode:normal;fill:#000000;fill-opacity:1;stroke-width:0.436643"
+         x="57.515511"
+         y="53.378143"
+         id="text35517-89-7-4-3-8"
+         inkscape:label="獸人"><tspan
+           sodipodi:role="line"
+           id="tspan35515-7-6-3-3-6"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6.01681px;font-family:'GenRyuMin TW';-inkscape-font-specification:'GenRyuMin TW Semi-Bold';fill:#000000;fill-opacity:1;stroke-width:0.436643"
+           x="57.515511"
+           y="53.378143">獸人</tspan></text>
+    </g>
   </g>
 </svg>
