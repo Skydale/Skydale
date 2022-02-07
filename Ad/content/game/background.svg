@@ -8,13 +8,12 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
-   sodipodi:docname="a.svg"
-   inkscape:export-filename="/mnt/data/Files/Projects/Programming/InfDev/Skydale/Ad/content/game/a.png"
-   inkscape:export-xdpi="96"
-   inkscape:export-ydpi="96"
+   sodipodi:docname="background.svg"
+   inkscape:export-filename="/mnt/data/Files/Projects/Programming/InfDev/Skydale/Ad/content/game/background.png"
+   inkscape:export-xdpi="24"
+   inkscape:export-ydpi="24"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
@@ -28,14 +27,14 @@
      inkscape:document-units="px"
      showgrid="false"
      inkscape:zoom="0.38043818"
-     inkscape:cx="976.50557"
-     inkscape:cy="492.85274"
+     inkscape:cx="640.05143"
+     inkscape:cy="490.22419"
      inkscape:window-width="1920"
      inkscape:window-height="1011"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="svg5"
      inkscape:snap-bbox="true"
      inkscape:bbox-paths="true"
      inkscape:bbox-nodes="true"
@@ -49,8 +48,8 @@
      inkscape:snap-text-baseline="true"
      inkscape:snap-page="true"
      inkscape:snap-center="true"
-     inkscape:snap-nodes="true"
-     inkscape:snap-global="true" />
+     inkscape:snap-nodes="false"
+     inkscape:snap-global="false" />
   <defs
      id="defs2">
     <filter
@@ -294,25 +293,20 @@
          in="fbSourceGraphic" />
     </filter>
   </defs>
+  <rect
+     style="fill:#601919;fill-opacity:1;stroke-width:0.001;paint-order:stroke markers fill;filter:url(#filter3367)"
+     id="rect844"
+     width="1920"
+     height="1080"
+     x="0"
+     y="0"
+     ry="85.218597"
+     transform="matrix(0.9224549,0,0,0.91794995,74.44328,44.30702)"
+     inkscape:export-filename="/mnt/data/Files/Projects/Programming/InfDev/Skydale/Ad/content/game/background.png"
+     inkscape:export-xdpi="24"
+     inkscape:export-ydpi="24" />
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
-    <image
-       width="1920"
-       height="1080"
-       preserveAspectRatio="none"
-       xlink:href="background.png"
-       id="image951"
-       x="0"
-       y="0" />
-    <image
-       width="933.33331"
-       height="1333.3333"
-       preserveAspectRatio="none"
-       xlink:href="a_char.png"
-       id="image979"
-       x="6.666687"
-       y="-217.33325" />
-  </g>
+     id="layer1" />
 </svg>
