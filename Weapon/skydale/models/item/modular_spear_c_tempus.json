@@ -1,7 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "skydale:item/modular_item_j"
+		"1": "skydale:item/modular_item_j",
+		"2": "skydale:item/tempus_a",
+		"particle": "skydale:item/tempus_a"
 	},
 	"elements": [
 		{
@@ -146,6 +148,19 @@
 				"up": {"uv": [3.25, 0.25, 5.5, 7], "texture": "#1"},
 				"down": {"uv": [3.25, 0.25, 5.5, 7], "texture": "#1"}
 			}
+		},
+		{
+			"from": [6.1625, 20.90687, 5.95679],
+			"to": [9.7875, 20.90687, 9.58179],
+			"rotation": {"angle": 0, "axis": "x", "origin": [8, 13.85, 4.65]},
+			"faces": {
+				"north": {"uv": [3.25, 0, 5.5, 2.25], "rotation": 180, "texture": "#1"},
+				"east": {"uv": [3.25, 0, 5.5, 0.25], "rotation": 270, "texture": "#1"},
+				"south": {"uv": [3.25, 0, 5.5, 2.25], "texture": "#1"},
+				"west": {"uv": [3.25, 1.75, 5.5, 7.75], "rotation": 90, "texture": "#1"},
+				"up": {"uv": [0, 0, 16, 16], "rotation": 180, "texture": "#2"},
+				"down": {"uv": [16, 0, 0, 16], "texture": "#2"}
+			}
 		}
 	],
 	"display": {
@@ -160,7 +175,7 @@
 			"scale": [1, 1.5, 1.5]
 		},
 		"firstperson_righthand": {
-			"rotation": [-6.5, -0.3, 7],
+			"rotation": [-6.5, 4, 7],
 			"translation": [0.5, -0.4, 0]
 		},
 		"firstperson_lefthand": {
@@ -231,6 +246,12 @@
 					]
 				}
 			]
+		},
+		{
+			"name": "group",
+			"origin": [8, 13.85, 4.65],
+			"color": 0,
+			"children": [11]
 		}
 	]
 }
