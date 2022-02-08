@@ -1,7 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "skydale:item/modular_item_k"
+		"1": "skydale:item/modular_item_k",
+		"2": "skydale:item/terra_e",
+		"particle": "skydale:item/terra_e"
 	},
 	"elements": [
 		{
@@ -159,6 +161,18 @@
 				"up": {"uv": [3.25, 0.25, 5.5, 7], "texture": "#1"},
 				"down": {"uv": [3.25, 0.25, 5.5, 7], "texture": "#1"}
 			}
+		},
+		{
+			"from": [7.6, 15.15, 7.3],
+			"to": [8.35, 15.9, 8.05],
+			"faces": {
+				"north": {"uv": [16, 0, 0, 16], "rotation": 90, "texture": "#2"},
+				"east": {"uv": [0, 0, 16, 16], "rotation": 270, "texture": "#2"},
+				"south": {"uv": [16, 0, 0, 16], "rotation": 90, "texture": "#2"},
+				"west": {"uv": [16, 16, 0, 0], "rotation": 90, "texture": "#2"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#2"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#2"}
+			}
 		}
 	],
 	"display": {
@@ -244,6 +258,12 @@
 					]
 				}
 			]
+		},
+		{
+			"name": "group",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [12]
 		}
 	]
 }

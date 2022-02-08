@@ -1,7 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "skydale:item/modular_item_k"
+		"1": "skydale:item/modular_item_k",
+		"2": "skydale:item/aqua_c3",
+		"particle": "skydale:item/aqua_c3"
 	},
 	"elements": [
 		{
@@ -159,6 +161,24 @@
 				"up": {"uv": [3.25, 0.25, 5.5, 7], "texture": "#1"},
 				"down": {"uv": [3.25, 0.25, 5.5, 7], "texture": "#1"}
 			}
+		},
+		{
+			"from": [8, 18.125, 14.9],
+			"to": [8, 19.55, 16.275],
+			"rotation": {"angle": -22.5, "axis": "x", "origin": [0, 0, 0]},
+			"faces": {
+				"east": {"uv": [16, 0, 0, 16], "texture": "#2"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#2"}
+			}
+		},
+		{
+			"from": [8, 24, -2.075],
+			"to": [8, 25.425, -0.7],
+			"rotation": {"angle": 22.5, "axis": "x", "origin": [27.025, 0, 0]},
+			"faces": {
+				"east": {"uv": [0, 0, 16, 16], "texture": "#2"},
+				"west": {"uv": [16, 0, 0, 16], "texture": "#2"}
+			}
 		}
 	],
 	"display": {
@@ -173,11 +193,11 @@
 			"scale": [1, 1.5, 1.5]
 		},
 		"firstperson_righthand": {
-			"rotation": [-6.5, -0.3, 7],
+			"rotation": [-6.5, 13, 7],
 			"translation": [0.5, -0.4, 0]
 		},
 		"firstperson_lefthand": {
-			"rotation": [-6.55, -7.93, 3.58],
+			"rotation": [-6.55, 2, 3.58],
 			"translation": [2.5, -0.4, 0]
 		},
 		"ground": {
@@ -244,6 +264,12 @@
 					]
 				}
 			]
+		},
+		{
+			"name": "group",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [12, 13]
 		}
 	]
 }
