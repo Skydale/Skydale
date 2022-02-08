@@ -1,7 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "skydale:item/modular_item_j"
+		"1": "skydale:item/modular_item_j",
+		"2": "skydale:item/aqua-02-sheet-sheet-sheet",
+		"particle": "skydale:item/aqua-02-sheet-sheet-sheet"
 	},
 	"elements": [
 		{
@@ -114,7 +116,7 @@
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 13.85, 8]},
 			"faces": {
 				"north": {"uv": [10.5, 7.5, 10.25, 15.5], "texture": "#1"},
-				"east": {"uv": [10.25, 7.5, 12.5, 15.25], "texture": "#1"},
+				"east": {"uv": [10.25, 7.5, 12.75, 15.25], "texture": "#1"},
 				"south": {"uv": [10.5, 7.5, 10.25, 15.5], "texture": "#1"},
 				"west": {"uv": [10.5, 7.5, 12, 11], "texture": "#1"},
 				"up": {"uv": [10.5, 7.5, 12.75, 16], "rotation": 90, "texture": "#1"},
@@ -146,6 +148,14 @@
 				"up": {"uv": [3.25, 0.25, 5.5, 7], "texture": "#1"},
 				"down": {"uv": [3.25, 0.25, 5.5, 7], "texture": "#1"}
 			}
+		},
+		{
+			"from": [6.5, 23.7, 6.225],
+			"to": [9.5, 23.7, 9.225],
+			"faces": {
+				"up": {"uv": [0, 0, 16, 16], "texture": "#2"},
+				"down": {"uv": [0, 16, 16, 0], "texture": "#2"}
+			}
 		}
 	],
 	"display": {
@@ -160,11 +170,11 @@
 			"scale": [1, 1.5, 1.5]
 		},
 		"firstperson_righthand": {
-			"rotation": [-6.5, -0.3, 7],
+			"rotation": [-6.5, 5, 7],
 			"translation": [0.5, -0.4, 0]
 		},
 		"firstperson_lefthand": {
-			"rotation": [-6.55, -7.93, 3.58],
+			"rotation": [-6.55, 2, 3.58],
 			"translation": [2.5, -0.4, 0]
 		},
 		"ground": {
@@ -231,6 +241,12 @@
 					]
 				}
 			]
+		},
+		{
+			"name": "group",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [11]
 		}
 	]
 }
