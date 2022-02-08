@@ -11,7 +11,7 @@
 
 > 看到大家在講某個話題，
 >
-> 突然想到什麼，或感覺有什麼問題？
+> 突然**想到什麼**，或感覺有**什麼問題**？
 >
 > **直接說出來！**
 >
@@ -27,27 +27,8 @@
 >
 > 團結力量大，我們**沒有人十項全能**，
 >
-> 即使是**「出很多奇怪點子」**也有用武之處！
+> 即使是「出很多奇怪點子」也有用武之處！
 >
-> 
->
-> 我們**要求**
->
-> :exclamation: **多元綜合**的**想法**
->
-> :exclamation: **做到最好**的**精神**
->
-> :exclamation: **永遠平等**的**地位**
->
-> 
->
-> 為了**追求**
->
-> :star2: **不同角度**的**聲音**
->
-> :star2: **不失品質**的**成品**
->
-> :star2: **不分高低**的**環境**
 
 
 
@@ -62,11 +43,3 @@
 > 可以直接在 **Discord 群組**說！
 >
 > (或是私訊 @Twinkle Sprinkle#5806)
-
-
-
-:paperclip: 巴哈姆特文章 https://skydale.github.io/bahamut/ 
-
-:paperclip: Github https://skydale.github.io/github/ 
-
-:paperclip: Discord 群組 https://skydale.github.io/discord/

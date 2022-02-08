@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1920"
+   height="1080"
+   viewBox="0 0 1920 1080"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   sodipodi:docname="c.svg"
+   inkscape:export-filename="/mnt/data/Files/Projects/Programming/InfDev/Skydale/Ad/content/game/c.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="0.3804382"
+     inkscape:cx="868.73505"
+     inkscape:cy="490.22417"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g5062"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-text-baseline="true"
+     inkscape:snap-page="true"
+     inkscape:snap-center="true"
+     inkscape:snap-nodes="true"
+     inkscape:snap-global="true"
+     showguides="true" />
+  <defs
+     id="defs2">
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Lightness-Contrast"
+       id="filter2238"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         type="hueRotate"
+         values="38.190042309976249"
+         result="color1"
+         id="feColorMatrix2234" />
+      <feColorMatrix
+         type="saturate"
+         values="0.49694455168968021"
+         result="fbSourceGraphic"
+         id="feColorMatrix2236" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix3607" />
+      <feColorMatrix
+         id="feColorMatrix3609"
+         values="1.50406 0 0 0.211222 -0.252029 0 1.50406 0 0.211222 -0.252029 0 0 1.50406 0.211222 -0.252029 0 0 0 1 0"
+         in="fbSourceGraphic" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter8983"
+       x="-0.0031201645"
+       y="-0.0054288142"
+       width="1.0101405"
+       height="0.9202108">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(51,51,51)"
+         result="flood"
+         id="feFlood8973" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite8975" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="2"
+         result="blur"
+         id="feGaussianBlur8977" />
+      <feOffset
+         dx="6"
+         dy="6"
+         result="offset"
+         id="feOffset8979" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite8981" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5049">
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g5045"
+         id="use5051"
+         transform="translate(-5.5290598e-7,-107.51749)"
+         width="100%"
+         height="100%" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     id="layer1">
+    <image
+       width="1920"
+       height="1080"
+       preserveAspectRatio="none"
+       xlink:href="../assets/background.png"
+       id="image951"
+       x="0"
+       y="0"
+       style="display:inline;filter:url(#filter2238)"
+       inkscape:label="background"
+       inkscape:export-filename="/mnt/data/Files/Projects/Programming/InfDev/Skydale/Ad/content/game/image951.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <g
+       id="g13681"
+       transform="translate(-4.097351,193.26279)"
+       inkscape:label="ad"
+       inkscape:export-filename="/mnt/data/Files/Projects/Programming/InfDev/Skydale/Ad/content/game/g13681.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       style="filter:url(#filter8983)">
+      <g
+         id="g5047"
+         clip-path="url(#clipPath5049)"
+         inkscape:label="image"
+         transform="matrix(0.8012398,0,0,0.8012398,29.075331,65.544464)"
+         style="display:inline">
+        <g
+           inkscape:label="Clip"
+           id="g5045"
+           transform="translate(5.5290598e-7,107.51749)">
+          <circle
+             style="display:inline;fill:#9d1717;stroke-width:0.001;paint-order:stroke markers fill"
+             id="circle4965"
+             cy="346.73721"
+             cx="538.09735"
+             r="384" />
+          <image
+             width="1920"
+             height="1080"
+             preserveAspectRatio="none"
+             xlink:href="../assets/game/c_map.png"
+             id="image3350"
+             x="-386.65189"
+             y="-264.14001"
+             clip-path="none"
+             inkscape:label="image"
+             style="display:inline" />
+        </g>
+      </g>
+      <g
+         id="g5062"
+         inkscape:label="text"
+         transform="translate(-12.94171,-174.87723)"
+         style="display:inline">
+        <g
+           id="g8841"
+           inkscape:label="title"
+           transform="translate(7.5580762,-75.300218)">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:96px;line-height:1.25;font-family:'Twitter Color Emoji';-inkscape-font-specification:'Twitter Color Emoji, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;stroke-width:0.999998"
+             x="1148.2935"
+             y="271.82971"
+             id="text3536"
+             inkscape:export-filename="/mnt/data/Files/Projects/Programming/InfDev/Skydale/Ad/content/game/text3536.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96"
+             inkscape:label="text"><tspan
+               sodipodi:role="line"
+               x="1148.2935"
+               y="271.82971"
+               id="tspan3544"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:96px;font-family:'Sarasa Fixed TC';-inkscape-font-specification:'Sarasa Fixed TC Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#e665c3;fill-opacity:1;stroke-width:0.999998">大型地圖</tspan></text>
+          <image
+             preserveAspectRatio="none"
+             inkscape:svg-dpi="192"
+             width="128"
+             height="128"
+             xlink:href="../assets/icons/1f5fa.svg"
+             id="image3709"
+             x="987.8775"
+             y="171.39771"
+             inkscape:label="icon" />
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:64px;line-height:1.6;font-family:'GenYoMin TW';-inkscape-font-specification:'GenYoMin TW Semi-Bold';fill:#ffffff;fill-opacity:1"
+           x="1304.0975"
+           y="326.73721"
+           id="text11141"
+           inkscape:label="desc"><tspan
+             sodipodi:role="line"
+             x="1304.0975"
+             y="326.73721"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:64px;font-family:'GenYoMin TW';-inkscape-font-specification:'GenYoMin TW Semi-Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1"
+             id="tspan2086"><tspan
+   style="fill:#ffd42a"
+   id="tspan106871">風水火地光暗</tspan>六大元素的島嶼</tspan><tspan
+             sodipodi:role="line"
+             x="1304.0975"
+             y="429.13721"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:64px;font-family:'GenYoMin TW';-inkscape-font-specification:'GenYoMin TW Semi-Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1"
+             id="tspan170879">在世界的角落，之間的是<tspan
+   style="fill:#55ddff"
+   id="tspan184863">不同元素</tspan></tspan><tspan
+             sodipodi:role="line"
+             x="1304.0975"
+             y="531.53723"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:64px;font-family:'GenYoMin TW';-inkscape-font-specification:'GenYoMin TW Semi-Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1"
+             id="tspan5355"><tspan
+   style="fill:#55ddff"
+   id="tspan115335">互相合成的島嶼</tspan>。五個種族：</tspan><tspan
+             sodipodi:role="line"
+             x="1304.0975"
+             y="633.93719"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:64px;font-family:'GenYoMin TW';-inkscape-font-specification:'GenYoMin TW Semi-Bold';text-align:center;text-anchor:middle;fill:#99ff55;fill-opacity:1"
+             id="tspan121715">人類<tspan
+   style="fill:#ffffff"
+   id="tspan190027">、</tspan>獸人<tspan
+   style="fill:#ffffff"
+   id="tspan192375">、</tspan>龍人<tspan
+   style="fill:#ffffff"
+   id="tspan194531">、</tspan>精靈<tspan
+   style="fill:#ffffff"
+   id="tspan196477">、</tspan>惡魔</tspan><tspan
+             sodipodi:role="line"
+             x="1304.0975"
+             y="736.33722"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:64px;font-family:'GenYoMin TW';-inkscape-font-specification:'GenYoMin TW Semi-Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1"
+             id="tspan5351">在島嶼上生存著</tspan><tspan
+             sodipodi:role="line"
+             x="1304.0975"
+             y="838.73724"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:64px;font-family:'GenYoMin TW';-inkscape-font-specification:'GenYoMin TW Semi-Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1"
+             id="tspan1221">作為<tspan
+   style="fill:#ff7f2a"
+   id="tspan152109">人類</tspan>的你，位居<tspan
+   style="fill:#ff8080"
+   id="tspan157043">眾島嶼中心</tspan></tspan><tspan
+             sodipodi:role="line"
+             x="1304.0975"
+             y="941.13721"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:64px;font-family:'GenYoMin TW';-inkscape-font-specification:'GenYoMin TW Semi-Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1"
+             id="tspan41609">可以到<tspan
+   style="fill:#2ad4ff"
+   id="tspan161287">各個區域冒險</tspan>！</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

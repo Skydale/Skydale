@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1920"
+   height="1080"
+   viewBox="0 0 1920 1080"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   sodipodi:docname="a.svg"
+   inkscape:export-filename="/mnt/data/Files/Projects/Programming/InfDev/Skydale/Ad/content/discord/a.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="0.26901043"
+     inkscape:cx="812.23616"
+     inkscape:cy="210.02903"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-text-baseline="true"
+     inkscape:snap-page="true"
+     inkscape:snap-center="true"
+     inkscape:snap-nodes="true"
+     inkscape:snap-global="true"
+     showguides="true" />
+  <defs
+     id="defs2">
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Lightness-Contrast"
+       id="filter2238"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         type="hueRotate"
+         values="240"
+         result="color1"
+         id="feColorMatrix2234" />
+      <feColorMatrix
+         type="saturate"
+         values="0.49694455168968021"
+         result="fbSourceGraphic"
+         id="feColorMatrix2236" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix3607" />
+      <feColorMatrix
+         id="feColorMatrix3609"
+         values="1.50406 0 0 0.211222 -0.252029 0 1.50406 0 0.211222 -0.252029 0 0 1.50406 0.211222 -0.252029 0 0 0 1 0"
+         in="fbSourceGraphic" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter8983"
+       x="-0.0375"
+       y="-0.0375"
+       width="1.121875"
+       height="1.121875">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(51,51,51)"
+         result="flood"
+         id="feFlood8973" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite8975" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="2"
+         result="blur"
+         id="feGaussianBlur8977" />
+      <feOffset
+         dx="6"
+         dy="6"
+         result="offset"
+         id="feOffset8979" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite8981" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     id="layer1">
+    <image
+       width="1920"
+       height="1080"
+       preserveAspectRatio="none"
+       xlink:href="../assets/background.png"
+       id="image951"
+       x="0"
+       y="0"
+       style="filter:url(#filter2238)"
+       inkscape:label="background"
+       sodipodi:insensitive="true" />
+    <g
+       id="g13681"
+       transform="translate(-33.435579,213.78956)"
+       inkscape:label="ad"
+       inkscape:export-filename="/mnt/data/Files/Projects/Programming/InfDev/Skydale/Ad/content/game/g13681.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       style="filter:url(#filter8983)">
+      <g
+         id="g891"
+         inkscape:label="text"
+         transform="translate(0,6)">
+        <g
+           id="g8841"
+           inkscape:label="title"
+           transform="translate(-302.91175,-86.97899)">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:96px;line-height:1.25;font-family:'Twitter Color Emoji';-inkscape-font-specification:'Twitter Color Emoji, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.999998"
+             x="1148.2935"
+             y="271.82971"
+             id="text3536"
+             inkscape:export-filename="/mnt/data/Files/Projects/Programming/InfDev/Skydale/Ad/content/game/text3536.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96"
+             inkscape:label="text"><tspan
+               sodipodi:role="line"
+               x="1148.2935"
+               y="271.82971"
+               id="tspan3544"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:96px;font-family:'Sarasa Fixed TC';-inkscape-font-specification:'Sarasa Fixed TC Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#98ff00;fill-opacity:1;stroke-width:0.999998"><tspan
+                 style="text-align:start;text-anchor:start;fill:#98ff00;fill-opacity:1"
+                 id="tspan7897">公開透明</tspan></tspan></text>
+          <image
+             preserveAspectRatio="none"
+             inkscape:svg-dpi="192"
+             width="128"
+             height="128"
+             xlink:href="../assets/icons/1f90d.svg"
+             id="image3709"
+             x="987.8775"
+             y="171.39771"
+             inkscape:label="icon" />
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:64px;line-height:1.6;font-family:'GenYoMin TW';-inkscape-font-specification:'GenYoMin TW Semi-Bold';fill:#ffffff;fill-opacity:1"
+           x="993.62756"
+           y="315.05844"
+           id="text11141"
+           inkscape:label="desc"><tspan
+             sodipodi:role="line"
+             x="993.62756"
+             y="315.05844"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:64px;font-family:'GenYoMin TW';-inkscape-font-specification:'GenYoMin TW Semi-Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1"
+             id="tspan5329">所有<tspan
+   style="fill:#2aff2a"
+   id="tspan21859">討論</tspan>、<tspan
+   style="fill:#2aff2a"
+   id="tspan23439">進度</tspan>、<tspan
+   style="fill:#2aff2a"
+   id="tspan25043">改動</tspan>都是<tspan
+   style="fill:#55ddff"
+   id="tspan27975">公開</tspan>的</tspan><tspan
+             sodipodi:role="line"
+             x="993.62756"
+             y="417.45844"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:64px;font-family:'GenYoMin TW';-inkscape-font-specification:'GenYoMin TW Semi-Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1"
+             id="tspan5331">不會有<tspan
+   style="fill:#ffaaaa"
+   id="tspan11777">一絲隱藏</tspan>！</tspan><tspan
+             sodipodi:role="line"
+             x="1001.7556"
+             y="519.85846"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:64px;font-family:'GenYoMin TW';-inkscape-font-specification:'GenYoMin TW Semi-Bold';text-align:center;text-anchor:middle;fill:#ffdd55;fill-opacity:1"
+             id="tspan14439"> 「好好的東西，沒有得罪誰，何必藏起來？」 </tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
