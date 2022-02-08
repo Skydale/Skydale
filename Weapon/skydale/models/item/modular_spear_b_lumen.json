@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"1": "skydale:item/modular_item_i",
-		"2": "skydale:item/fire_core",
-		"particle": "skydale:item/fire_core"
+		"2": "skydale:item/lumen_b",
+		"particle": "skydale:item/lumen_b"
 	},
 	"elements": [
 		{

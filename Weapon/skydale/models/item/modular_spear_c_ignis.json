@@ -3,7 +3,7 @@
 	"textures": {
 		"1": "skydale:item/modular_item_j",
 		"2": "skydale:item/ignis_j",
-		"3": "skydale:item/ignis_i",
+		"3": "skydale:item/ignis_c",
 		"particle": "skydale:item/ignis_j"
 	},
 	"elements": [
@@ -203,12 +203,21 @@
 			}
 		},
 		{
-			"from": [8.0125, 23.31821, 6.75687],
-			"to": [8.0125, 24.91821, 8.70687],
+			"from": [8.0125, 23.31821, 7.23187],
+			"to": [8.0125, 24.91821, 8.18187],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 13.85, 4.65]},
 			"faces": {
-				"east": {"uv": [15.95, 0, 0, 16], "texture": "#3"},
-				"west": {"uv": [0, 0, 15.95, 16], "texture": "#3"}
+				"east": {"uv": [16, 0, 0, 16], "texture": "#3"},
+				"west": {"uv": [16, 0, 0, 16], "texture": "#3"}
+			}
+		},
+		{
+			"from": [8.0125, 23.31821, 7.23187],
+			"to": [8.0125, 24.91821, 8.18187],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 13.85, 4.65]},
+			"faces": {
+				"east": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#3"}
 			}
 		}
 	],
@@ -300,7 +309,7 @@
 			"name": "group",
 			"origin": [8, 13.85, 8],
 			"color": 0,
-			"children": [11, 12, 13, 14, 15]
+			"children": [11, 12, 13, 14, 15, 16]
 		}
 	]
 }

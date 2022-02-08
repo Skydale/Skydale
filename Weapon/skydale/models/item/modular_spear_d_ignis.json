@@ -1,7 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "skydale:item/modular_item_k"
+		"1": "skydale:item/modular_item_k",
+		"2": "skydale:item/ignis_d",
+		"particle": "skydale:item/ignis_d"
 	},
 	"elements": [
 		{
@@ -159,6 +161,14 @@
 				"up": {"uv": [3.25, 0.25, 5.5, 7], "texture": "#1"},
 				"down": {"uv": [3.25, 0.25, 5.5, 7], "texture": "#1"}
 			}
+		},
+		{
+			"from": [8, 23.575, 7.15],
+			"to": [8, 24.825, 8.25],
+			"faces": {
+				"east": {"uv": [16, 0, 0, 16], "texture": "#2"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#2"}
+			}
 		}
 	],
 	"display": {
@@ -244,6 +254,12 @@
 					]
 				}
 			]
+		},
+		{
+			"name": "group",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [12]
 		}
 	]
 }
