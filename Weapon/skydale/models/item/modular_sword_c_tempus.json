@@ -1,7 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "skydale:item/modular_item_c"
+		"1": "skydale:item/modular_item_c",
+		"2": "skydale:item/tempus_e",
+		"particle": "skydale:item/tempus_e"
 	},
 	"elements": [
 		{
@@ -31,8 +33,8 @@
 			}
 		},
 		{
-			"from": [7.6, 7.95, 7.6],
-			"to": [8.4, 21.85, 8.025],
+			"from": [7.575, 7.95, 7.6],
+			"to": [8.425, 21.85, 8.025],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 12.75, 8]},
 			"faces": {
 				"north": {"uv": [8.25, 8, 8.5, 15.25], "texture": "#1"},
@@ -315,6 +317,24 @@
 				"up": {"uv": [11.5, 9.25, 13, 11.5], "texture": "#1"},
 				"down": {"uv": [11.5, 9.25, 13, 11.5], "texture": "#1"}
 			}
+		},
+		{
+			"from": [8, 6.875, 12.125],
+			"to": [8, 8.425, 13.675],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7.85, 8]},
+			"faces": {
+				"east": {"uv": [16, 0, 0, 16], "rotation": 180, "texture": "#2"},
+				"west": {"uv": [0, 0, 16, 16], "rotation": 180, "texture": "#2"}
+			}
+		},
+		{
+			"from": [8, 6.875, 2],
+			"to": [8, 8.425, 3.55],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7.85, 8]},
+			"faces": {
+				"east": {"uv": [16, 0, 0, 16], "rotation": 180, "texture": "#2"},
+				"west": {"uv": [0, 0, 16, 16], "rotation": 180, "texture": "#2"}
+			}
 		}
 	],
 	"display": {
@@ -329,12 +349,12 @@
 			"scale": [1, 1.5, 1.5]
 		},
 		"firstperson_righthand": {
-			"rotation": [-6.5, 0, 4.5],
-			"translation": [0, 1.6, 0]
+			"rotation": [-6.5, 13, 4.5],
+			"translation": [0, 2.35, 0]
 		},
 		"firstperson_lefthand": {
-			"rotation": [-6.5, 0, 4.5],
-			"translation": [0, 1.6, 0]
+			"rotation": [-6.5, 13, 4.5],
+			"translation": [0, 2.35, 0]
 		},
 		"ground": {
 			"rotation": [45, 0, 0],
@@ -346,7 +366,7 @@
 		},
 		"fixed": {
 			"rotation": [-90, 45, 90],
-			"translation": [3, -3, 0]
+			"translation": [3, -3, -0.75]
 		}
 	},
 	"groups": [
@@ -380,6 +400,12 @@
 					"children": [22, 23]
 				}
 			]
+		},
+		{
+			"name": "group",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [24, 25]
 		}
 	]
 }
