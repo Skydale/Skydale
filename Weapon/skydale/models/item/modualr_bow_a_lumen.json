@@ -2,26 +2,21 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"1": "skydale:item/modular_item_all_a",
-		"2": "skydale:item/ignis_l",
+		"3": "skydale:item/lumen_e",
 		"particle": "skydale:item/modular_item_all_a"
 	},
 	"elements": [
 		{
-			"from": [3.25, 10.575, 7.85],
-			"to": [6.25, 12.575, 7.85],
-			"rotation": {"angle": 0, "axis": "y", "origin": [7.5, 8.5, 7.5]},
+			"from": [9.60016, 0.93929, 7.72013],
+			"to": [9.85016, 16.56429, 7.97013],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8.00441, 7.94117, 7.85717]},
 			"faces": {
-				"north": {"uv": [0, 0, 16, 16], "rotation": 90, "texture": "#2"},
-				"south": {"uv": [0, 16, 16, 0], "rotation": 90, "texture": "#2"}
-			}
-		},
-		{
-			"from": [3.25, 4.875, 7.85],
-			"to": [6.25, 6.875, 7.85],
-			"rotation": {"angle": 0, "axis": "y", "origin": [7.5, 8.5, 7.5]},
-			"faces": {
-				"north": {"uv": [0, 0, 16, 16], "rotation": 90, "texture": "#2"},
-				"south": {"uv": [0, 16, 16, 0], "rotation": 90, "texture": "#2"}
+				"north": {"uv": [7.21552, 15.19828, 0, 0.82759], "texture": "#3"},
+				"east": {"uv": [0, 0.82759, 7.21552, 15.19828], "texture": "#3"},
+				"south": {"uv": [7.21552, 15.19828, 0, 0.82759], "texture": "#3"},
+				"west": {"uv": [0, 0.82759, 7.21552, 15.19828], "texture": "#3"},
+				"up": {"uv": [0, 0.82759, 7.21552, 15.19828], "texture": "#3"},
+				"down": {"uv": [0, 0.82759, 7.21552, 15.19828], "texture": "#3"}
 			}
 		},
 		{
@@ -339,12 +334,12 @@
 		},
 		"gui": {
 			"rotation": [-180, -180, 45],
-			"translation": [0.75, 0.75, 0],
+			"translation": [0.5, 0.75, 0],
 			"scale": [0.70547, 0.6, 0.6]
 		},
 		"fixed": {
 			"rotation": [-180, 0, 45],
-			"translation": [-1.25, 1.75, -2.25],
+			"translation": [-1, 2.25, -3.25],
 			"scale": [0.65, 0.65, 0.65]
 		}
 	},
@@ -353,7 +348,7 @@
 			"name": "group",
 			"origin": [8, 8, 8],
 			"color": 0,
-			"children": [0, 1]
+			"children": [0]
 		},
 		{
 			"name": "group",
@@ -364,25 +359,25 @@
 					"name": "group",
 					"origin": [8, 8, 8],
 					"color": 0,
-					"children": [2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
+					"children": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 				},
 				{
 					"name": "group",
 					"origin": [8, 8, 8],
 					"color": 0,
-					"children": [12, 13, 14, 15, 16, 17, 18, 19, 20, 21]
+					"children": [11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+				},
+				{
+					"name": "group",
+					"origin": [5.46384, 23.3625, 8],
+					"color": 0,
+					"children": [21]
 				},
 				{
 					"name": "group",
 					"origin": [5.46384, 23.3625, 8],
 					"color": 0,
 					"children": [22]
-				},
-				{
-					"name": "group",
-					"origin": [5.46384, 23.3625, 8],
-					"color": 0,
-					"children": [23]
 				}
 			]
 		}
