@@ -2,9 +2,20 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"2": "skydale:item/modular_item_all_a",
-		"3": "skydale:item/modular_item_all_b"
+		"3": "skydale:item/modular_item_all_b",
+		"4": "skydale:item/aqua-02-sheet-sheet-sheet",
+		"particle": "skydale:item/aqua-02-sheet-sheet-sheet"
 	},
 	"elements": [
+		{
+			"from": [0.975, 26.525, 1.025],
+			"to": [14.925, 26.525, 14.975],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.975, 18.9375, 8]},
+			"faces": {
+				"up": {"uv": [0, 0, 16, 16], "rotation": 90, "texture": "#4"},
+				"down": {"uv": [16, 0, 0, 16], "rotation": 90, "texture": "#4"}
+			}
+		},
 		{
 			"from": [7.275, 0.125, 7.3],
 			"to": [8.675, 20.55, 8.7],
@@ -229,30 +240,36 @@
 			"name": "group",
 			"origin": [8, 8, 8],
 			"color": 0,
+			"children": [0]
+		},
+		{
+			"name": "group",
+			"origin": [8, 8, 8],
+			"color": 0,
 			"children": [
 				{
 					"name": "group",
 					"origin": [0, 0, 0],
 					"color": 0,
-					"children": [0, 1, 2, 3]
+					"children": [1, 2, 3, 4]
 				},
 				{
 					"name": "group",
 					"origin": [8, 8, 8],
 					"color": 0,
-					"children": [4, 5]
+					"children": [5, 6]
 				},
 				{
 					"name": "group",
 					"origin": [8, 8, 8],
 					"color": 0,
-					"children": [6, 7, 8, 9]
+					"children": [7, 8, 9, 10]
 				},
 				{
 					"name": "group",
 					"origin": [8, 8, 8],
 					"color": 0,
-					"children": [10, 11, 12, 13]
+					"children": [11, 12, 13, 14]
 				}
 			]
 		}
