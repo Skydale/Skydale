@@ -1,9 +1,38 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"3": "skydale:item/modular_item_all_b"
+		"1": "skydale:item/tempus_b",
+		"3": "skydale:item/modular_item_all_b",
+		"particle": "skydale:item/tempus_b"
 	},
 	"elements": [
+		{
+			"from": [6.626, 31.2125, 6.864],
+			"to": [9.074, 31.2125, 9.136],
+			"rotation": {"angle": 0, "axis": "z", "origin": [6.378, 30.2325, 8]},
+			"faces": {
+				"up": {"uv": [16, 0, 0, 16], "rotation": 90, "texture": "#1"},
+				"down": {"uv": [0, 0, 16, 16], "rotation": 90, "texture": "#1"}
+			}
+		},
+		{
+			"from": [6.32, 30.5875, 6.58],
+			"to": [9.38, 30.5875, 9.42],
+			"rotation": {"angle": 0, "axis": "z", "origin": [6.01, 29.9875, 8]},
+			"faces": {
+				"up": {"uv": [16, 0, 0, 16], "rotation": 90, "texture": "#1"},
+				"down": {"uv": [0, 0, 16, 16], "rotation": 90, "texture": "#1"}
+			}
+		},
+		{
+			"from": [5.9375, 29.8875, 6.225],
+			"to": [9.7625, 29.8875, 9.775],
+			"rotation": {"angle": 0, "axis": "z", "origin": [5.55, 29.8375, 8]},
+			"faces": {
+				"up": {"uv": [16, 0, 0, 16], "rotation": 90, "texture": "#1"},
+				"down": {"uv": [0, 0, 16, 16], "rotation": 90, "texture": "#1"}
+			}
+		},
 		{
 			"from": [7.40957, -0.025, 7.4481],
 			"to": [8.55957, 0.5, 8.5981],
@@ -216,36 +245,42 @@
 			"name": "group",
 			"origin": [8, 8, 8],
 			"color": 0,
+			"children": [0, 1, 2]
+		},
+		{
+			"name": "group",
+			"origin": [8, 8, 8],
+			"color": 0,
 			"children": [
 				{
 					"name": "group",
 					"origin": [0, 0, 0],
 					"color": 0,
-					"children": [0, 1]
+					"children": [3, 4]
 				},
 				{
 					"name": "group",
 					"origin": [8, 8, 8],
 					"color": 0,
-					"children": [2, 3, 4]
+					"children": [5, 6, 7]
 				},
 				{
 					"name": "group",
 					"origin": [8, 8, 8],
 					"color": 0,
-					"children": [5, 6, 7, 8]
+					"children": [8, 9, 10, 11]
 				},
 				{
 					"name": "group",
 					"origin": [8, 8, 8],
 					"color": 0,
-					"children": [9, 10]
+					"children": [12, 13]
 				},
 				{
 					"name": "group",
 					"origin": [7.975, 28.6875, 8],
 					"color": 0,
-					"children": [11, 12]
+					"children": [14, 15]
 				}
 			]
 		}
