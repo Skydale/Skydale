@@ -2,10 +2,24 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"2": "skydale:item/modular_item_all_a",
+		"3": "skydale:item/umbra_c",
 		"4": "skydale:item/modular_sword",
 		"particle": "skydale:item/modular_sword"
 	},
 	"elements": [
+		{
+			"from": [5.85, 21.275, 7.35],
+			"to": [10.1, 21.6, 8.65],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.975, -2.15, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#3"}
+			}
+		},
 		{
 			"from": [7.6, 0, 7.625],
 			"to": [8.35, 0.5, 8.375],
@@ -451,33 +465,39 @@
 			"name": "group",
 			"origin": [8, 8, 8],
 			"color": 0,
+			"children": [0]
+		},
+		{
+			"name": "group",
+			"origin": [8, 8, 8],
+			"color": 0,
 			"children": [
 				{
 					"name": "group",
 					"origin": [8, 8, 8],
 					"color": 0,
-					"children": [0]
+					"children": [1]
 				},
 				{
 					"name": "group",
 					"origin": [0, 0, 0],
 					"color": 0,
-					"children": [1, 2, 3, 4]
+					"children": [2, 3, 4, 5]
 				},
 				{
 					"name": "group",
 					"origin": [8, 8, 8],
 					"color": 0,
 					"children": [
-						5,
 						6,
 						7,
 						8,
+						9,
 						{
 							"name": "group",
 							"origin": [8, 8, 8],
 							"color": 0,
-							"children": [9, 10, 11, 12, 13]
+							"children": [10, 11, 12, 13, 14]
 						}
 					]
 				},
@@ -485,19 +505,19 @@
 					"name": "group",
 					"origin": [8, 8, 8],
 					"color": 0,
-					"children": [14, 15, 16, 17, 18, 19, 20]
+					"children": [15, 16, 17, 18, 19, 20, 21]
 				},
 				{
 					"name": "group",
 					"origin": [8, 8, 8],
 					"color": 0,
-					"children": [21, 22, 23, 24, 25]
+					"children": [22, 23, 24, 25, 26]
 				},
 				{
 					"name": "group",
 					"origin": [8, 8, 8],
 					"color": 0,
-					"children": [26, 27, 28, 29, 30]
+					"children": [27, 28, 29, 30, 31]
 				}
 			]
 		}
