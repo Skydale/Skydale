@@ -2,9 +2,19 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"2": "skydale:item/modular_sword",
+		"3": "skydale:item/ignis_e",
 		"particle": "skydale:item/modular_item_all_a"
 	},
 	"elements": [
+		{
+			"from": [7.4375, 15.96426, 8],
+			"to": [8.6125, 17.66426, 8],
+			"rotation": {"angle": 0, "axis": "z", "origin": [8, 15.35176, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"south": {"uv": [16, 0, 0, 16], "texture": "#3"}
+			}
+		},
 		{
 			"from": [7.7125, 0.7125, 7.65],
 			"to": [8.2625, 15.2875, 8.35],
@@ -263,11 +273,11 @@
 			"translation": [0.25, 1.25, 1]
 		},
 		"firstperson_righthand": {
-			"rotation": [-5, -74, 0],
+			"rotation": [-5, -71, 0],
 			"translation": [2, 1, -2.5]
 		},
 		"firstperson_lefthand": {
-			"rotation": [-5, 94, 0],
+			"rotation": [-5, 108, 0],
 			"translation": [2, 1, -2.5]
 		},
 		"ground": {
@@ -276,14 +286,20 @@
 		},
 		"gui": {
 			"rotation": [0, -180, 45],
-			"translation": [-1, -1, 0]
+			"translation": [-0.25, -0.75, 0]
 		},
 		"fixed": {
 			"rotation": [0, 0, 45],
-			"translation": [0.75, -1, -1.25]
+			"translation": [1.25, -0.75, -1.25]
 		}
 	},
 	"groups": [
+		{
+			"name": "group",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [0]
+		},
 		{
 			"name": "group",
 			"origin": [8, 8, 8],
@@ -293,26 +309,26 @@
 					"name": "group",
 					"origin": [0, 4.175, 0],
 					"color": 0,
-					"children": [0, 1, 2]
+					"children": [1, 2, 3]
 				},
 				{
 					"name": "group",
 					"origin": [7.975, 6.9, 8],
 					"color": 0,
-					"children": [3]
+					"children": [4]
 				},
 				{
 					"name": "group",
 					"origin": [7.975, 6.9, 8],
 					"color": 0,
 					"children": [
-						4,
 						5,
+						6,
 						{
 							"name": "group",
 							"origin": [7.975, 6.9, 8],
 							"color": 0,
-							"children": [6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18]
+							"children": [7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
 						}
 					]
 				}

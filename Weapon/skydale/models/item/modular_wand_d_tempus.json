@@ -2,9 +2,37 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"2": "skydale:item/modular_sword",
+		"3": "skydale:item/tempus_e",
 		"particle": "skydale:item/modular_item_all_a"
 	},
 	"elements": [
+		{
+			"from": [6.82353, 15.33952, 6.8],
+			"to": [9.14853, 15.33952, 9.275],
+			"rotation": {"angle": 22.5, "axis": "z", "origin": [7.98603, 15.28118, 8.0375]},
+			"faces": {
+				"up": {"uv": [16, 0, 0, 16], "rotation": 180, "texture": "#3"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#3"}
+			}
+		},
+		{
+			"from": [6.82353, 15.08952, 6.8],
+			"to": [9.14853, 15.08952, 9.275],
+			"rotation": {"angle": 22.5, "axis": "z", "origin": [7.98603, 15.28118, 8.0375]},
+			"faces": {
+				"up": {"uv": [16, 0, 0, 16], "rotation": 180, "texture": "#3"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#3"}
+			}
+		},
+		{
+			"from": [6.82353, 14.81452, 6.8],
+			"to": [9.14853, 14.81452, 9.275],
+			"rotation": {"angle": 22.5, "axis": "z", "origin": [7.98603, 15.28118, 8.0375]},
+			"faces": {
+				"up": {"uv": [16, 0, 0, 16], "rotation": 180, "texture": "#3"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#3"}
+			}
+		},
 		{
 			"from": [7.7125, 0.7125, 7.65],
 			"to": [8.2625, 15.2875, 8.35],
@@ -276,14 +304,20 @@
 		},
 		"gui": {
 			"rotation": [0, -180, 45],
-			"translation": [-1, -1, 0]
+			"translation": [-0.25, -0.75, 0]
 		},
 		"fixed": {
 			"rotation": [0, 0, 45],
-			"translation": [0.75, -1, -1.25]
+			"translation": [0.75, -0.5, -1.25]
 		}
 	},
 	"groups": [
+		{
+			"name": "group",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [0, 1, 2]
+		},
 		{
 			"name": "group",
 			"origin": [8, 8, 8],
@@ -293,26 +327,26 @@
 					"name": "group",
 					"origin": [0, 4.175, 0],
 					"color": 0,
-					"children": [0, 1, 2]
+					"children": [3, 4, 5]
 				},
 				{
 					"name": "group",
 					"origin": [7.975, 6.9, 8],
 					"color": 0,
-					"children": [3]
+					"children": [6]
 				},
 				{
 					"name": "group",
 					"origin": [7.975, 6.9, 8],
 					"color": 0,
 					"children": [
-						4,
-						5,
+						7,
+						8,
 						{
 							"name": "group",
 							"origin": [7.975, 6.9, 8],
 							"color": 0,
-							"children": [6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18]
+							"children": [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21]
 						}
 					]
 				}
